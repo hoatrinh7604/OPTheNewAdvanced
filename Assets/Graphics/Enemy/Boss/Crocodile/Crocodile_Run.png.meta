@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: c3890b2238f4d7641acfc6be2494c523
+timeCreated: 1526046685
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Crocodile_Run_1
+    21300002: Crocodile_Run_2
+    21300004: Crocodile_Run_3
+    21300006: Crocodile_Run_4
+    21300008: Crocodile_Run_5
+    21300010: Crocodile_Run_7
+    21300012: Crocodile_Run_8
+    21300014: Crocodile_Run_9
+    21300016: Crocodile_Run_10
+    21300018: Crocodile_Run_12
+    21300020: Crocodile_Run_13
+    21300022: Crocodile_Run_14
+    21300024: Crocodile_Run_15
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crocodile_Run_1
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 4445
+        width: 950
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.53572714, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_Run_2
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 4445
+        width: 1012
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.57825625, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_Run_3
+      rect:
+        serializedVersion: 2
+        x: 3138
+        y: 4445
+        width: 1060
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.59072244, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_Run_4
+      rect:
+        serializedVersion: 2
+        x: 4271
+        y: 4445
+        width: 1122
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.600834, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_Run_5
+      rect:
+        serializedVersion: 2
+        x: 5466
+        y: 4445
+        width: 1145
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.61857086, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_Run_7
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 2387
+        width: 1019
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.5625103, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_Run_8
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 2387
+        width: 805
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.452523, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_Run_9
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 2387
+        width: 804
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.4683094, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_Run_10
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 2387
+        width: 801
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.4443335, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_Run_12
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 406
+        width: 798
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.44412437, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_Run_13
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 406
+        width: 994
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.41028422, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_Run_14
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 406
+        width: 798
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.45210683, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_Run_15
+      rect:
+        serializedVersion: 2
+        x: 3936
+        y: 406
+        width: 801
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.4602383, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

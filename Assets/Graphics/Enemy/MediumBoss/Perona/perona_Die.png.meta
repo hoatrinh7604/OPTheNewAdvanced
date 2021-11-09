@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: ca67422f6e048014ab57dabc6b6fd6bd
+timeCreated: 1525961789
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: perona_Die_1
+    21300002: perona_Die_2
+    21300004: perona_Die_3
+    21300006: perona_Die_4
+    21300008: perona_Die_6
+    21300010: perona_Die_7
+    21300012: perona_Die_8
+    21300014: perona_Die_9
+    21300016: perona_Die_11
+    21300018: perona_Die_12
+    21300020: perona_Die_13
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: perona_Die_1
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 4995
+        width: 1166
+        height: 1700
+      alignment: 9
+      pivot: {x: 0.45288432, y: 0.2716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Die_2
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 4995
+        width: 1143
+        height: 1700
+      alignment: 9
+      pivot: {x: 0.48890814, y: 0.2716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Die_3
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 4995
+        width: 1130
+        height: 1700
+      alignment: 9
+      pivot: {x: 0.50545317, y: 0.2716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Die_4
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 4995
+        width: 1201
+        height: 1700
+      alignment: 9
+      pivot: {x: 0.6744579, y: 0.2716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Die_6
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 3026
+        width: 1279
+        height: 1700
+      alignment: 9
+      pivot: {x: 0.7842733, y: 0.2716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Die_7
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 3026
+        width: 1287
+        height: 1700
+      alignment: 9
+      pivot: {x: 0.8639065, y: 0.2716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Die_8
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 3026
+        width: 1382
+        height: 1700
+      alignment: 9
+      pivot: {x: 0.97266364, y: 0.2716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Die_9
+      rect:
+        serializedVersion: 2
+        x: 5498
+        y: 3026
+        width: 1525
+        height: 1700
+      alignment: 9
+      pivot: {x: 0.9849155, y: 0.2716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Die_11
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 804
+        width: 1607
+        height: 1700
+      alignment: 9
+      pivot: {x: 0.9753883, y: 0.5051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Die_12
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 804
+        width: 1592
+        height: 1700
+      alignment: 9
+      pivot: {x: 0.9718695, y: 0.5051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Die_13
+      rect:
+        serializedVersion: 2
+        x: 4476
+        y: 804
+        width: 1584
+        height: 1700
+      alignment: 9
+      pivot: {x: 0.9742527, y: 0.5051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

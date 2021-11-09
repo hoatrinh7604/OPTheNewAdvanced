@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: cb7d52fd4229b704fb0da5b198c387de
+timeCreated: 1525961437
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blueno_Run_RunAttack_1
+    21300002: blueno_Run_RunAttack_2
+    21300004: blueno_Run_RunAttack_3
+    21300006: blueno_Run_RunAttack_4
+    21300008: blueno_Run_RunAttack_5
+    21300010: blueno_Run_RunAttack_6
+    21300012: blueno_Run_RunAttack_7
+    21300014: blueno_Run_RunAttack_8
+    21300016: blueno_Run_RunAttack_10
+    21300018: blueno_Run_RunAttack_11
+    21300020: blueno_Run_RunAttack_12
+    21300022: blueno_Run_RunAttack_13
+    21300024: blueno_Run_RunAttack_14
+    21300026: blueno_Run_RunAttack_15
+    21300028: blueno_Run_RunAttack_16
+    21300030: blueno_Run_RunAttack_17
+    21300032: blueno_Run_RunAttack_19
+    21300034: blueno_Run_RunAttack_20
+    21300036: blueno_Run_RunAttack_21
+    21300038: blueno_Run_RunAttack_22
+    21300040: blueno_Run_RunAttack_23
+    21300042: blueno_Run_RunAttack_24
+    21300044: blueno_Run_RunAttack_25
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_1
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3719
+        width: 673
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5918073, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_2
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 3719
+        width: 672
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.60113835, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_3
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 3719
+        width: 672
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.62872136, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_4
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 3719
+        width: 754
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6065282, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_5
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 3719
+        width: 797
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.55963343, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_6
+      rect:
+        serializedVersion: 2
+        x: 4895
+        y: 3719
+        width: 677
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6203487, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_7
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 3719
+        width: 675
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6106467, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_8
+      rect:
+        serializedVersion: 2
+        x: 6734
+        y: 3719
+        width: 674
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.60073733, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_10
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1967
+        width: 672
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6212446, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_11
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1967
+        width: 669
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6319372, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_12
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 1967
+        width: 672
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6515557, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_13
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 1967
+        width: 773
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.58783597, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_14
+      rect:
+        serializedVersion: 2
+        x: 3877
+        y: 1967
+        width: 820
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5496808, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_15
+      rect:
+        serializedVersion: 2
+        x: 4818
+        y: 1967
+        width: 734
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6110035, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_16
+      rect:
+        serializedVersion: 2
+        x: 5708
+        y: 1967
+        width: 668
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6524636, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_17
+      rect:
+        serializedVersion: 2
+        x: 6578
+        y: 1967
+        width: 673
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.621064, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_19
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 289
+        width: 672
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.728048, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_20
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 289
+        width: 670
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.7950941, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_21
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 289
+        width: 656
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.92600197, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_22
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 289
+        width: 683
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.9663822, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_23
+      rect:
+        serializedVersion: 2
+        x: 4394
+        y: 289
+        width: 726
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.9560702, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_24
+      rect:
+        serializedVersion: 2
+        x: 5366
+        y: 289
+        width: 796
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.96028113, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Run_RunAttack_25
+      rect:
+        serializedVersion: 2
+        x: 6342
+        y: 289
+        width: 877
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.9541389, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

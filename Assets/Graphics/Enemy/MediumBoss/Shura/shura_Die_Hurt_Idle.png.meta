@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: 0f3d35834113e79478f54a5f73dbd8e9
+timeCreated: 1525961842
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shura_Die_Hurt_Idle_1
+    21300002: shura_Die_Hurt_Idle_2
+    21300004: shura_Die_Hurt_Idle_3
+    21300006: shura_Die_Hurt_Idle_4
+    21300008: shura_Die_Hurt_Idle_5
+    21300010: shura_Die_Hurt_Idle_6
+    21300012: shura_Die_Hurt_Idle_7
+    21300014: shura_Die_Hurt_Idle_8
+    21300016: shura_Die_Hurt_Idle_10
+    21300018: shura_Die_Hurt_Idle_11
+    21300020: shura_Die_Hurt_Idle_12
+    21300022: shura_Die_Hurt_Idle_13
+    21300024: shura_Die_Hurt_Idle_14
+    21300026: shura_Die_Hurt_Idle_15
+    21300028: shura_Die_Hurt_Idle_16
+    21300030: shura_Die_Hurt_Idle_17
+    21300032: shura_Die_Hurt_Idle_19
+    21300034: shura_Die_Hurt_Idle_20
+    21300036: shura_Die_Hurt_Idle_21
+    21300038: shura_Die_Hurt_Idle_22
+    21300040: shura_Die_Hurt_Idle_23
+    21300042: shura_Die_Hurt_Idle_24
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 3764
+        width: 1165
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.652499, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 3764
+        width: 1210
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.61153513, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 3426
+        y: 3764
+        width: 1252
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.5734957, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 4884
+        y: 3764
+        width: 1248
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.60322374, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 6342
+        y: 3764
+        width: 1239
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.6314044, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 7692
+        y: 3764
+        width: 1184
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.68563676, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 8922
+        y: 3764
+        width: 1216
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.8012519, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 3764
+        width: 1255
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.90864587, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2003
+        width: 1286
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9718152, y: 0.4733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 2003
+        width: 1274
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.94533336, y: 0.4733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 2003
+        width: 1311
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9267541, y: 0.4733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 5068
+        y: 1975
+        width: 1159
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.7589247, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 6387
+        y: 1975
+        width: 1146
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.72687054, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 7799
+        y: 1975
+        width: 779
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.3944128, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 8935
+        y: 1975
+        width: 734
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.36560956, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 9923
+        y: 1975
+        width: 727
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.3480082, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 286
+        width: 1179
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.73704636, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 286
+        width: 1182
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.74445975, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 286
+        width: 1185
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.7398437, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 4744
+        y: 286
+        width: 1186
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.7436355, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 6126
+        y: 286
+        width: 1185
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.74384105, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Die_Hurt_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 7479
+        y: 286
+        width: 1193
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.73952633, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

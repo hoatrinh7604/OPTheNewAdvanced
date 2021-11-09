@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: f09405e491f642b49b16a47f09bc03ab
+timeCreated: 1525961364
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kaori_Die_Hurt_Idle_1
+    21300002: kaori_Die_Hurt_Idle_2
+    21300004: kaori_Die_Hurt_Idle_3
+    21300006: kaori_Die_Hurt_Idle_4
+    21300008: kaori_Die_Hurt_Idle_5
+    21300010: kaori_Die_Hurt_Idle_6
+    21300012: kaori_Die_Hurt_Idle_7
+    21300014: kaori_Die_Hurt_Idle_8
+    21300016: kaori_Die_Hurt_Idle_10
+    21300018: kaori_Die_Hurt_Idle_11
+    21300020: kaori_Die_Hurt_Idle_12
+    21300022: kaori_Die_Hurt_Idle_13
+    21300024: kaori_Die_Hurt_Idle_14
+    21300026: kaori_Die_Hurt_Idle_15
+    21300028: kaori_Die_Hurt_Idle_16
+    21300030: kaori_Die_Hurt_Idle_17
+    21300032: kaori_Die_Hurt_Idle_19
+    21300034: kaori_Die_Hurt_Idle_20
+    21300036: kaori_Die_Hurt_Idle_21
+    21300038: kaori_Die_Hurt_Idle_22
+    21300040: kaori_Die_Hurt_Idle_23
+    21300042: kaori_Die_Hurt_Idle_24
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 3755
+        width: 829
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.42616454, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 3755
+        width: 823
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.49070308, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 3755
+        width: 813
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5376442, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 3863
+        y: 3755
+        width: 866
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.694372, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 4966
+        y: 3755
+        width: 868
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.80851614, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 6028
+        y: 3755
+        width: 890
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.93419343, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 7113
+        y: 3755
+        width: 1052
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.98035645, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 8295
+        y: 3755
+        width: 1181
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.96983737, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 2048
+        width: 1202
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.969872, y: 0.488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 2048
+        width: 1213
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.9492737, y: 0.488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 3992
+        y: 2048
+        width: 1206
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.95188123, y: 0.488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 5484
+        y: 1969
+        width: 825
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.57002485, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 6423
+        y: 1969
+        width: 831
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5518565, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 7405
+        y: 1969
+        width: 809
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.36927402, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 8311
+        y: 1969
+        width: 815
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.36447468, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 9212
+        y: 1969
+        width: 824
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.32364514, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 288
+        width: 826
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5839705, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 288
+        width: 825
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5905528, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 288
+        width: 828
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6046871, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 4054
+        y: 288
+        width: 824
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.610732, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 4999
+        y: 288
+        width: 819
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6058372, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Die_Hurt_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 5912
+        y: 288
+        width: 828
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5991771, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

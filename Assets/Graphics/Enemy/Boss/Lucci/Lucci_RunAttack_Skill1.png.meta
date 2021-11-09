@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 448644e8466909249bb71a25d79859fe
+timeCreated: 1526046951
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Lucci_RunAttack_Skill1_1
+    21300002: Lucci_RunAttack_Skill1_2
+    21300004: Lucci_RunAttack_Skill1_3
+    21300006: Lucci_RunAttack_Skill1_4
+    21300008: Lucci_RunAttack_Skill1_5
+    21300010: Lucci_RunAttack_Skill1_7
+    21300012: Lucci_RunAttack_Skill1_8
+    21300014: Lucci_RunAttack_Skill1_9
+    21300016: Lucci_RunAttack_Skill1_10
+    21300018: Lucci_RunAttack_Skill1_11
+    21300020: Lucci_RunAttack_Skill1_12
+    21300022: Lucci_RunAttack_Skill1_13
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lucci_RunAttack_Skill1_1
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 2587
+        width: 730
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.80689013, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_RunAttack_Skill1_2
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 2587
+        width: 730
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.87871563, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_RunAttack_Skill1_3
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 2587
+        width: 770
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9518976, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_RunAttack_Skill1_4
+      rect:
+        serializedVersion: 2
+        x: 4074
+        y: 2587
+        width: 805
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9559352, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_RunAttack_Skill1_5
+      rect:
+        serializedVersion: 2
+        x: 5085
+        y: 2587
+        width: 853
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.952631, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_RunAttack_Skill1_7
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 511
+        width: 734
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.47777787, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_RunAttack_Skill1_8
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 511
+        width: 734
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.47777754, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_RunAttack_Skill1_9
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 511
+        width: 738
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.46684748, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_RunAttack_Skill1_10
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 511
+        width: 734
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.438889, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_RunAttack_Skill1_11
+      rect:
+        serializedVersion: 2
+        x: 4791
+        y: 511
+        width: 728
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.4327842, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_RunAttack_Skill1_12
+      rect:
+        serializedVersion: 2
+        x: 5715
+        y: 511
+        width: 713
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.4370898, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_RunAttack_Skill1_13
+      rect:
+        serializedVersion: 2
+        x: 6613
+        y: 511
+        width: 786
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.4169922, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

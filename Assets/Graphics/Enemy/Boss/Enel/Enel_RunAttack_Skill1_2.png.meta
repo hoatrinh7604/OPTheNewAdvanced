@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 57c589cc8d7f7fb41a6705c5016300d1
+timeCreated: 1526046878
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enel_RunAttack_Skill1_2_1
+    21300002: Enel_RunAttack_Skill1_2_2
+    21300004: Enel_RunAttack_Skill1_2_3
+    21300006: Enel_RunAttack_Skill1_2_4
+    21300008: Enel_RunAttack_Skill1_2_5
+    21300010: Enel_RunAttack_Skill1_2_7
+    21300012: Enel_RunAttack_Skill1_2_8
+    21300014: Enel_RunAttack_Skill1_2_9
+    21300016: Enel_RunAttack_Skill1_2_10
+    21300018: Enel_RunAttack_Skill1_2_11
+    21300020: Enel_RunAttack_Skill1_2_12
+    21300022: Enel_RunAttack_Skill1_2_13
+    21300024: Enel_RunAttack_Skill1_2_15
+    21300026: Enel_RunAttack_Skill1_2_16
+    21300028: Enel_RunAttack_Skill1_2_17
+    21300030: Enel_RunAttack_Skill1_2_18
+    21300032: Enel_RunAttack_Skill1_2_19
+    21300034: Enel_RunAttack_Skill1_2_20
+    21300036: Enel_RunAttack_Skill1_2_21
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enel_RunAttack_Skill1_2_1
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 4590
+        width: 1326
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.77008086, y: 0.2928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_RunAttack_Skill1_2_2
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 4590
+        width: 1272
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.8162579, y: 0.2928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_RunAttack_Skill1_2_3
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 4590
+        width: 1225
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.8560647, y: 0.2928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_RunAttack_Skill1_2_4
+      rect:
+        serializedVersion: 2
+        x: 5211
+        y: 4590
+        width: 1313
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.95615584, y: 0.2928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_RunAttack_Skill1_2_5
+      rect:
+        serializedVersion: 2
+        x: 6675
+        y: 4590
+        width: 1563
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.97899234, y: 0.2928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_RunAttack_Skill1_2_7
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 2501
+        width: 1115
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.5211521, y: 0.2635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_RunAttack_Skill1_2_8
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 2501
+        width: 1120
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.5350961, y: 0.2635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_RunAttack_Skill1_2_9
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 2501
+        width: 1133
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.5346934, y: 0.2635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_RunAttack_Skill1_2_10
+      rect:
+        serializedVersion: 2
+        x: 4582
+        y: 2501
+        width: 1282
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.5245287, y: 0.2635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_RunAttack_Skill1_2_11
+      rect:
+        serializedVersion: 2
+        x: 5993
+        y: 2501
+        width: 1197
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.4605936, y: 0.2635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_RunAttack_Skill1_2_12
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 2209
+        width: 1052
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.41032472, y: 0.4105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_RunAttack_Skill1_2_13
+      rect:
+        serializedVersion: 2
+        x: 8434
+        y: 2209
+        width: 1110
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.38668004, y: 0.4105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_RunAttack_Skill1_2_15
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 501
+        width: 1114
+        height: 1750
+      alignment: 9
+      pivot: {x: 0.5199028, y: 0.30114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_RunAttack_Skill1_2_16
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 501
+        width: 1019
+        height: 1750
+      alignment: 9
+      pivot: {x: 0.48549458, y: 0.30114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_RunAttack_Skill1_2_17
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 501
+        width: 1019
+        height: 1750
+      alignment: 9
+      pivot: {x: 0.47824177, y: 0.30114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_RunAttack_Skill1_2_18
+      rect:
+        serializedVersion: 2
+        x: 4468
+        y: 501
+        width: 1018
+        height: 1750
+      alignment: 9
+      pivot: {x: 0.4564408, y: 0.30114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_RunAttack_Skill1_2_19
+      rect:
+        serializedVersion: 2
+        x: 5596
+        y: 501
+        width: 1014
+        height: 1750
+      alignment: 9
+      pivot: {x: 0.46355757, y: 0.30114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_RunAttack_Skill1_2_20
+      rect:
+        serializedVersion: 2
+        x: 6735
+        y: 501
+        width: 1010
+        height: 1700
+      alignment: 9
+      pivot: {x: 0.43414342, y: 0.31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_RunAttack_Skill1_2_21
+      rect:
+        serializedVersion: 2
+        x: 7869
+        y: 501
+        width: 1015
+        height: 1700
+      alignment: 9
+      pivot: {x: 0.4199055, y: 0.31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

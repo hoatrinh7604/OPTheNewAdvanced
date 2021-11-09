@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 5147eef984285294ab415afb90c174b4
+timeCreated: 1526046601
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Arlong_Die_1
+    21300002: Arlong_Die_2
+    21300004: Arlong_Die_3
+    21300006: Arlong_Die_4
+    21300008: Arlong_Die_5
+    21300010: Arlong_Die_6
+    21300012: Arlong_Die_8
+    21300014: Arlong_Die_9
+    21300016: Arlong_Die_10
+    21300018: Arlong_Die_11
+    21300020: Arlong_Die_12
+    21300022: Arlong_Die_13
+    21300024: Arlong_Die_15
+    21300026: Arlong_Die_16
+    21300028: Arlong_Die_17
+    21300030: Arlong_Die_18
+    21300032: Arlong_Die_19
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arlong_Die_1
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 4756
+        width: 1570
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.77624154, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Die_2
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 4756
+        width: 1604
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.79434425, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Die_3
+      rect:
+        serializedVersion: 2
+        x: 4056
+        y: 4756
+        width: 1510
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.75978565, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Die_4
+      rect:
+        serializedVersion: 2
+        x: 5612
+        y: 4756
+        width: 1505
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.7819258, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Die_5
+      rect:
+        serializedVersion: 2
+        x: 7322
+        y: 4756
+        width: 1466
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.80034757, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Die_6
+      rect:
+        serializedVersion: 2
+        x: 8958
+        y: 4756
+        width: 1423
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.7989242, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Die_8
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 2733
+        width: 1333
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.8040085, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Die_9
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 2733
+        width: 1326
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.82705986, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Die_10
+      rect:
+        serializedVersion: 2
+        x: 3662
+        y: 2733
+        width: 1318
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.8614104, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Die_11
+      rect:
+        serializedVersion: 2
+        x: 5139
+        y: 2733
+        width: 1426
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9038374, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Die_12
+      rect:
+        serializedVersion: 2
+        x: 6685
+        y: 2733
+        width: 1466
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9558635, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Die_13
+      rect:
+        serializedVersion: 2
+        x: 8278
+        y: 2733
+        width: 1582
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.97636557, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Die_15
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 319
+        width: 1667
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9686667, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Die_16
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 319
+        width: 1708
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9775228, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Die_17
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 319
+        width: 1774
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.96459633, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Die_18
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 319
+        width: 1811
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.97406715, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Die_19
+      rect:
+        serializedVersion: 2
+        x: 7882
+        y: 319
+        width: 1849
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.96432406, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

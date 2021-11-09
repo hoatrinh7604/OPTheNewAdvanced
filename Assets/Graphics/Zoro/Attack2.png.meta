@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 542d5d08b7925294cbd45299fb3ed483
+timeCreated: 1524321937
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Attack2_1
+    21300002: Attack2_2
+    21300004: Attack2_3
+    21300006: Attack2_4
+    21300008: Attack2_5
+    21300010: Attack2_6
+    21300012: Attack2_7
+    21300014: Attack2_9
+    21300016: Attack2_10
+    21300018: Attack2_11
+    21300020: Attack2_12
+    21300022: Attack2_13
+    21300024: Attack2_14
+    21300026: Attack2_16
+    21300028: Attack2_17
+    21300030: Attack2_18
+    21300032: Attack2_19
+    21300034: Attack2_20
+    21300036: Attack2_21
+    21300038: Attack2_23
+    21300040: Attack2_24
+    21300042: Attack2_25
+    21300044: Attack2_26
+    21300046: Attack2_28
+    21300048: Attack2_29
+    21300050: Attack2_30
+    21300052: Attack2_31
+    21300054: Attack2_32
+    21300056: Attack2_33
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attack2_1
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 8743
+        width: 1328
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.55882347, y: 0.30970713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_2
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 8766
+        width: 1331
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.5567485, y: 0.29674986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_3
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 8870
+        width: 1287
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.73923427, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_4
+      rect:
+        serializedVersion: 2
+        x: 5081
+        y: 8719
+        width: 1064
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.68856835, y: 0.32897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_5
+      rect:
+        serializedVersion: 2
+        x: 6563
+        y: 8516
+        width: 1058
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.6896377, y: 0.4434436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_6
+      rect:
+        serializedVersion: 2
+        x: 8051
+        y: 8617
+        width: 1404
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.524396, y: 0.37743732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_7
+      rect:
+        serializedVersion: 2
+        x: 9658
+        y: 8867
+        width: 1822
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.4034361, y: 0.22799225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_9
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 6924
+        width: 1541
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.4750248, y: 0.2279923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_10
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 6919
+        width: 1488
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.49630508, y: 0.2279923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_11
+      rect:
+        serializedVersion: 2
+        x: 3946
+        y: 6920
+        width: 1571
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.472002, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_12
+      rect:
+        serializedVersion: 2
+        x: 5613
+        y: 6932
+        width: 1601
+        height: 1581
+      alignment: 9
+      pivot: {x: 0.46359056, y: 0.24638283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_13
+      rect:
+        serializedVersion: 2
+        x: 7358
+        y: 6929
+        width: 1589
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.45847857, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_14
+      rect:
+        serializedVersion: 2
+        x: 9034
+        y: 6931
+        width: 1580
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.46868202, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_16
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 4895
+        width: 1601
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.46222407, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_17
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 4891
+        width: 1643
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.44311136, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_18
+      rect:
+        serializedVersion: 2
+        x: 4114
+        y: 4891
+        width: 1840
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.4013924, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_19
+      rect:
+        serializedVersion: 2
+        x: 5996
+        y: 4893
+        width: 1917
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.3824088, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_20
+      rect:
+        serializedVersion: 2
+        x: 8015
+        y: 4895
+        width: 1918
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.38246983, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_21
+      rect:
+        serializedVersion: 2
+        x: 10034
+        y: 4896
+        width: 1917
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.38240904, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_23
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2684
+        width: 1917
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.38962635, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_24
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 2680
+        width: 1906
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.38133344, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_25
+      rect:
+        serializedVersion: 2
+        x: 4747
+        y: 2684
+        width: 1780
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.4098235, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_26
+      rect:
+        serializedVersion: 2
+        x: 6916
+        y: 2688
+        width: 1445
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.5100981, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_28
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 666
+        width: 1096
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.66642517, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_29
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 666
+        width: 1140
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.6472016, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_30
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 666
+        width: 1057
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.70017636, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_31
+      rect:
+        serializedVersion: 2
+        x: 5428
+        y: 666
+        width: 1039
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.7036443, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_32
+      rect:
+        serializedVersion: 2
+        x: 6940
+        y: 666
+        width: 1039
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.7036438, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Attack2_33
+      rect:
+        serializedVersion: 2
+        x: 8416
+        y: 666
+        width: 1039
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.7106659, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

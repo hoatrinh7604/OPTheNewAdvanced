@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 8360c631bdaaab7459fb84a7e29054bc
+timeCreated: 1525961038
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: E3_Walk_1
+    21300002: E3_Walk_2
+    21300004: E3_Walk_3
+    21300006: E3_Walk_4
+    21300008: E3_Walk_5
+    21300010: E3_Walk_6
+    21300012: E3_Walk_7
+    21300014: E3_Walk_9
+    21300016: E3_Walk_10
+    21300018: E3_Walk_11
+    21300020: E3_Walk_12
+    21300022: E3_Walk_13
+    21300024: E3_Walk_14
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: E3_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1935
+        width: 820
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.52623546, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1935
+        width: 815
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5177171, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 1935
+        width: 824
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5175239, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 3924
+        y: 1935
+        width: 838
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5126231, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 5013
+        y: 1935
+        width: 859
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.51231444, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 6183
+        y: 1935
+        width: 838
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5189346, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 7383
+        y: 1935
+        width: 819
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5258324, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 260
+        width: 819
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5270318, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 260
+        width: 817
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.51354903, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 260
+        width: 819
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5202738, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 4180
+        y: 260
+        width: 820
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.52024937, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 5247
+        y: 260
+        width: 817
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.52032375, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 6294
+        y: 260
+        width: 820
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.54049873, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

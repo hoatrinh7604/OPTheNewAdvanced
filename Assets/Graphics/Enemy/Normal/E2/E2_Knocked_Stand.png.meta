@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: 482c48be4be500a4e9883f149fddc535
+timeCreated: 1525960947
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: E2_Knocked_Stand_1
+    21300002: E2_Knocked_Stand_2
+    21300004: E2_Knocked_Stand_3
+    21300006: E2_Knocked_Stand_4
+    21300008: E2_Knocked_Stand_5
+    21300010: E2_Knocked_Stand_6
+    21300012: E2_Knocked_Stand_7
+    21300014: E2_Knocked_Stand_9
+    21300016: E2_Knocked_Stand_10
+    21300018: E2_Knocked_Stand_11
+    21300020: E2_Knocked_Stand_12
+    21300022: E2_Knocked_Stand_13
+    21300024: E2_Knocked_Stand_15
+    21300026: E2_Knocked_Stand_16
+    21300028: E2_Knocked_Stand_17
+    21300030: E2_Knocked_Stand_18
+    21300032: E2_Knocked_Stand_19
+    21300034: E2_Knocked_Stand_20
+    21300036: E2_Knocked_Stand_21
+    21300038: E2_Knocked_Stand_22
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: E2_Knocked_Stand_1
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 3659
+        width: 946
+        height: 1500
+      alignment: 9
+      pivot: {x: 0.866548, y: 0.412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Knocked_Stand_2
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 3659
+        width: 842
+        height: 1500
+      alignment: 9
+      pivot: {x: 0.80045533, y: 0.412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Knocked_Stand_3
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 3659
+        width: 1010
+        height: 1500
+      alignment: 9
+      pivot: {x: 0.86736906, y: 0.412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Knocked_Stand_4
+      rect:
+        serializedVersion: 2
+        x: 3797
+        y: 3659
+        width: 1131
+        height: 1500
+      alignment: 9
+      pivot: {x: 0.7886653, y: 0.412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Knocked_Stand_5
+      rect:
+        serializedVersion: 2
+        x: 5178
+        y: 3659
+        width: 929
+        height: 1500
+      alignment: 9
+      pivot: {x: 0.6029643, y: 0.412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Knocked_Stand_6
+      rect:
+        serializedVersion: 2
+        x: 6418
+        y: 3659
+        width: 875
+        height: 1500
+      alignment: 9
+      pivot: {x: 0.4797087, y: 0.412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Knocked_Stand_7
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 3659
+        width: 988
+        height: 1500
+      alignment: 9
+      pivot: {x: 0.46284762, y: 0.412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Knocked_Stand_9
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 2087
+        width: 1216
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.37231004, y: 0.4873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Knocked_Stand_10
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 2087
+        width: 1163
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.38397694, y: 0.4873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Knocked_Stand_11
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 2087
+        width: 1098
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.41601786, y: 0.4873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Knocked_Stand_12
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 2087
+        width: 1052
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.43637955, y: 0.4873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Knocked_Stand_13
+      rect:
+        serializedVersion: 2
+        x: 6294
+        y: 2087
+        width: 1548
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.59157735, y: 0.4873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Knocked_Stand_15
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 378
+        width: 1441
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.6487943, y: 0.473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Knocked_Stand_16
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 378
+        width: 1352
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.75106466, y: 0.473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Knocked_Stand_17
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 378
+        width: 1282
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.79861826, y: 0.473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Knocked_Stand_18
+      rect:
+        serializedVersion: 2
+        x: 4776
+        y: 378
+        width: 1261
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.81782615, y: 0.473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Knocked_Stand_19
+      rect:
+        serializedVersion: 2
+        x: 6228
+        y: 450
+        width: 1160
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.72463965, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Knocked_Stand_20
+      rect:
+        serializedVersion: 2
+        x: 7494
+        y: 450
+        width: 1196
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.74745816, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Knocked_Stand_21
+      rect:
+        serializedVersion: 2
+        x: 8848
+        y: 450
+        width: 864
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.8350638, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Knocked_Stand_22
+      rect:
+        serializedVersion: 2
+        x: 9838
+        y: 450
+        width: 657
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.8970284, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

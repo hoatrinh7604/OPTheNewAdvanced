@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 4fbdc7a0c55b552468ed421a21619d52
+timeCreated: 1525961759
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: perona_Attack3_4_1
+    21300002: perona_Attack3_4_2
+    21300004: perona_Attack3_4_3
+    21300006: perona_Attack3_4_4
+    21300008: perona_Attack3_4_5
+    21300010: perona_Attack3_4_7
+    21300012: perona_Attack3_4_8
+    21300014: perona_Attack3_4_9
+    21300016: perona_Attack3_4_10
+    21300018: perona_Attack3_4_11
+    21300020: perona_Attack3_4_13
+    21300022: perona_Attack3_4_14
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: perona_Attack3_4_1
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 5911
+        width: 1491
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.75561714, y: 0.337345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Attack3_4_2
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 5911
+        width: 1567
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.7837562, y: 0.337345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Attack3_4_3
+      rect:
+        serializedVersion: 2
+        x: 3977
+        y: 5911
+        width: 1653
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.81840044, y: 0.337345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Attack3_4_4
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 5911
+        width: 1874
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.86317027, y: 0.337345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Attack3_4_5
+      rect:
+        serializedVersion: 2
+        x: 7818
+        y: 5911
+        width: 1793
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.765704, y: 0.337345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Attack3_4_7
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 3181
+        width: 1588
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.78431946, y: 0.420845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Attack3_4_8
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 3181
+        width: 1556
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.79419684, y: 0.420845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Attack3_4_9
+      rect:
+        serializedVersion: 2
+        x: 4443
+        y: 3181
+        width: 1592
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.82693374, y: 0.420845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Attack3_4_10
+      rect:
+        serializedVersion: 2
+        x: 6229
+        y: 3181
+        width: 1594
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.84619355, y: 0.420845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Attack3_4_11
+      rect:
+        serializedVersion: 2
+        x: 8044
+        y: 3181
+        width: 1599
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.860798, y: 0.420845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Attack3_4_13
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1048
+        width: 1756
+        height: 1700
+      alignment: 9
+      pivot: {x: 0.851114, y: 0.3575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Attack3_4_14
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 1048
+        width: 2074
+        height: 1700
+      alignment: 9
+      pivot: {x: 0.8546483, y: 0.3575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

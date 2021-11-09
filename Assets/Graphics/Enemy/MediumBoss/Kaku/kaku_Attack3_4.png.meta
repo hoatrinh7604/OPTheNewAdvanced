@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 8c2c58914e3859c45b6ea62b9c96f38a
+timeCreated: 1525961572
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kaku_Attack3_4_1
+    21300002: kaku_Attack3_4_2
+    21300004: kaku_Attack3_4_3
+    21300006: kaku_Attack3_4_4
+    21300008: kaku_Attack3_4_5
+    21300010: kaku_Attack3_4_6
+    21300012: kaku_Attack3_4_8
+    21300014: kaku_Attack3_4_9
+    21300016: kaku_Attack3_4_10
+    21300018: kaku_Attack3_4_11
+    21300020: kaku_Attack3_4_12
+    21300022: kaku_Attack3_4_13
+    21300024: kaku_Attack3_4_14
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kaku_Attack3_4_1
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2575
+        width: 1184
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.73343563, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Attack3_4_2
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 2575
+        width: 1244
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.7719748, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Attack3_4_3
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 2575
+        width: 1246
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.84037906, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Attack3_4_4
+      rect:
+        serializedVersion: 2
+        x: 4666
+        y: 2575
+        width: 1248
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9467476, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Attack3_4_5
+      rect:
+        serializedVersion: 2
+        x: 6106
+        y: 2575
+        width: 1606
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9035377, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Attack3_4_6
+      rect:
+        serializedVersion: 2
+        x: 7887
+        y: 2575
+        width: 1422
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.827748, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Attack3_4_8
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 824
+        width: 1215
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.876073, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Attack3_4_9
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 824
+        width: 1225
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.8597993, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Attack3_4_10
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 824
+        width: 1228
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9148987, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Attack3_4_11
+      rect:
+        serializedVersion: 2
+        x: 4562
+        y: 824
+        width: 1234
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9390962, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Attack3_4_12
+      rect:
+        serializedVersion: 2
+        x: 6005
+        y: 824
+        width: 1253
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9582549, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Attack3_4_13
+      rect:
+        serializedVersion: 2
+        x: 7391
+        y: 824
+        width: 1358
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9777289, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Attack3_4_14
+      rect:
+        serializedVersion: 2
+        x: 8881
+        y: 824
+        width: 1632
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.98192704, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

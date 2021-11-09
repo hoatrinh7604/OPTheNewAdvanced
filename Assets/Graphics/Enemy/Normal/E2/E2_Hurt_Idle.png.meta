@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 11f7f96729d211445b70242375dd60c8
+timeCreated: 1525960938
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: E2_Hurt_Idle_1
+    21300002: E2_Hurt_Idle_2
+    21300004: E2_Hurt_Idle_3
+    21300006: E2_Hurt_Idle_6
+    21300008: E2_Hurt_Idle_7
+    21300010: E2_Hurt_Idle_9
+    21300012: E2_Hurt_Idle_10
+    21300014: E2_Hurt_Idle_11
+    21300016: E2_Hurt_Idle_12
+    21300018: E2_Hurt_Idle_13
+    21300020: E2_Hurt_Idle_15
+    21300022: E2_Hurt_Idle_16
+    21300024: E2_Hurt_Idle_17
+    21300026: E2_Hurt_Idle_18
+    21300028: E2_Hurt_Idle_19
+    21300030: E2_Hurt_Idle_20
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: E2_Hurt_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 3548
+        width: 867
+        height: 1121
+      alignment: 9
+      pivot: {x: 0.8499732, y: 0.45569336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Hurt_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 3494
+        width: 813
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.78299004, y: 0.5016816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Hurt_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 3478
+        width: 797
+        height: 1167
+      alignment: 9
+      pivot: {x: 0.77193654, y: 0.50000167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Hurt_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 4990
+        y: 3766
+        width: 1249
+        height: 685
+      alignment: 9
+      pivot: {x: 0.66961265, y: 0.23992181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Hurt_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 6380
+        y: 3665
+        width: 1280
+        height: 677
+      alignment: 9
+      pivot: {x: 0.63029635, y: 0.28313857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Hurt_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1832
+        width: 1314
+        height: 645
+      alignment: 9
+      pivot: {x: 0.61598825, y: 0.31873184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Hurt_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 1796
+        width: 1257
+        height: 684
+      alignment: 9
+      pivot: {x: 0.560624, y: 0.25553796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Hurt_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 1792
+        width: 1069
+        height: 899
+      alignment: 9
+      pivot: {x: 0.45926574, y: 0.15359405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Hurt_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 5123
+        y: 1824
+        width: 1221
+        height: 758
+      alignment: 9
+      pivot: {x: 0.539478, y: 0.119385086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Hurt_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 6411
+        y: 1841
+        width: 1463
+        height: 382
+      alignment: 9
+      pivot: {x: 0.6347863, y: 0.23645914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Hurt_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 197
+        width: 983
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.33626783, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Hurt_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 197
+        width: 984
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.34430948, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Hurt_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 197
+        width: 983
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.35770974, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Hurt_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 3905
+        y: 197
+        width: 984
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.35483012, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Hurt_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 5022
+        y: 197
+        width: 984
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.3457567, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Hurt_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 6146
+        y: 197
+        width: 983
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.33954522, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

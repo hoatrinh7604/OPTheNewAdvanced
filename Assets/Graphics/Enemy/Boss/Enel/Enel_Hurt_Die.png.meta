@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 13d4b4e6ce74f6643be6766b15920a11
+timeCreated: 1526046841
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enel_Hurt_Die_1
+    21300002: Enel_Hurt_Die_2
+    21300004: Enel_Hurt_Die_3
+    21300006: Enel_Hurt_Die_4
+    21300008: Enel_Hurt_Die_5
+    21300010: Enel_Hurt_Die_7
+    21300012: Enel_Hurt_Die_8
+    21300014: Enel_Hurt_Die_9
+    21300016: Enel_Hurt_Die_10
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enel_Hurt_Die_1
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2381
+        width: 1114
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.61287504, y: 0.2928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_Hurt_Die_2
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2381
+        width: 1124
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.62302494, y: 0.2928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_Hurt_Die_3
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 2381
+        width: 1189
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.62543815, y: 0.2928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_Hurt_Die_4
+      rect:
+        serializedVersion: 2
+        x: 4408
+        y: 2381
+        width: 1242
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.60563505, y: 0.2928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_Hurt_Die_5
+      rect:
+        serializedVersion: 2
+        x: 5790
+        y: 2381
+        width: 1018
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.48640007, y: 0.2928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_Hurt_Die_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 402
+        width: 1253
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.65779454, y: 0.2928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_Hurt_Die_8
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 402
+        width: 1249
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.662521, y: 0.2928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_Hurt_Die_9
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 402
+        width: 1222
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.6768985, y: 0.2928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enel_Hurt_Die_10
+      rect:
+        serializedVersion: 2
+        x: 4819
+        y: 402
+        width: 1238
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.6618357, y: 0.2928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

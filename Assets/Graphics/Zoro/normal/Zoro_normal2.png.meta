@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 19d229c48e84b364b8cee181f9558548
+timeCreated: 1521901596
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Zoro_normal2_1
+    21300002: Zoro_normal2_2
+    21300004: Zoro_normal2_3
+    21300006: Zoro_normal2_4
+    21300008: Zoro_normal2_5
+    21300010: Zoro_normal2_6
+    21300012: Zoro_normal2_7
+    21300014: Zoro_normal2_10
+    21300016: Zoro_normal2_11
+    21300018: Zoro_normal2_12
+    21300020: Zoro_normal2_13
+    21300022: Zoro_normal2_14
+    21300024: Zoro_normal2_15
+    21300026: Zoro_normal2_16
+    21300028: Zoro_normal2_17
+    21300030: Zoro_normal2_18
+    21300032: Zoro_normal2_21
+    21300034: Zoro_normal2_22
+    21300036: Zoro_normal2_23
+    21300038: Zoro_normal2_24
+    21300040: Zoro_normal2_25
+    21300042: Zoro_normal2_26
+    21300044: Zoro_normal2_27
+    21300046: Zoro_normal2_28
+    21300048: Zoro_normal2_29
+    21300050: Zoro_normal2_30
+    21300052: Zoro_normal2_31
+    21300054: Zoro_normal2_32
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zoro_normal2_1
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2953
+        width: 1023
+        height: 1060
+      alignment: 9
+      pivot: {x: 0.69753623, y: 0.32073006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_2
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 2953
+        width: 1017
+        height: 1060
+      alignment: 9
+      pivot: {x: 0.6987017, y: 0.3207301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_3
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 2953
+        width: 1017
+        height: 1060
+      alignment: 9
+      pivot: {x: 0.7026756, y: 0.3207301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_4
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 2953
+        width: 1017
+        height: 1060
+      alignment: 9
+      pivot: {x: 0.6947277, y: 0.3207301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_5
+      rect:
+        serializedVersion: 2
+        x: 4868
+        y: 2953
+        width: 1017
+        height: 1060
+      alignment: 9
+      pivot: {x: 0.7026756, y: 0.3207301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_6
+      rect:
+        serializedVersion: 2
+        x: 5966
+        y: 2953
+        width: 1024
+        height: 1060
+      alignment: 9
+      pivot: {x: 0.70129013, y: 0.3207301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_7
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 2953
+        width: 1024
+        height: 1060
+      alignment: 9
+      pivot: {x: 0.70129013, y: 0.3207301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_10
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1518
+        width: 1037
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.69133246, y: 0.33138928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_11
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1518
+        width: 1031
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.6924458, y: 0.3313893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_12
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 1518
+        width: 1037
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.687173, y: 0.3313893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_13
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 1518
+        width: 1036
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.6831898, y: 0.3313893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_14
+      rect:
+        serializedVersion: 2
+        x: 4868
+        y: 1518
+        width: 1031
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.6840787, y: 0.3313893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_15
+      rect:
+        serializedVersion: 2
+        x: 5973
+        y: 1518
+        width: 1023
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.68973476, y: 0.3313893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_16
+      rect:
+        serializedVersion: 2
+        x: 7070
+        y: 1518
+        width: 1024
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.68954945, y: 0.3313893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_17
+      rect:
+        serializedVersion: 2
+        x: 8174
+        y: 1518
+        width: 1024
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.6979742, y: 0.3313893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_18
+      rect:
+        serializedVersion: 2
+        x: 9258
+        y: 1518
+        width: 1024
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.6937618, y: 0.3313893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_21
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 1028
+        height: 1075
+      alignment: 9
+      pivot: {x: 0.6930761, y: 0.4144375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_22
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 0
+        width: 1023
+        height: 1075
+      alignment: 9
+      pivot: {x: 0.69401973, y: 0.4144375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_23
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 0
+        width: 1024
+        height: 1075
+      alignment: 9
+      pivot: {x: 0.6938305, y: 0.4144375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_24
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 0
+        width: 1030
+        height: 1075
+      alignment: 9
+      pivot: {x: 0.6927014, y: 0.4144375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_25
+      rect:
+        serializedVersion: 2
+        x: 4869
+        y: 0
+        width: 1069
+        height: 1075
+      alignment: 9
+      pivot: {x: 0.6675572, y: 0.4144375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_26
+      rect:
+        serializedVersion: 2
+        x: 5973
+        y: 0
+        width: 1023
+        height: 1075
+      alignment: 9
+      pivot: {x: 0.69402, y: 0.4144375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_27
+      rect:
+        serializedVersion: 2
+        x: 7077
+        y: 0
+        width: 1023
+        height: 1075
+      alignment: 9
+      pivot: {x: 0.69402, y: 0.4144375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_28
+      rect:
+        serializedVersion: 2
+        x: 8181
+        y: 0
+        width: 1017
+        height: 1075
+      alignment: 9
+      pivot: {x: 0.6999245, y: 0.4144375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_29
+      rect:
+        serializedVersion: 2
+        x: 9285
+        y: 0
+        width: 1017
+        height: 1075
+      alignment: 9
+      pivot: {x: 0.6951646, y: 0.4144375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_30
+      rect:
+        serializedVersion: 2
+        x: 10389
+        y: 0
+        width: 1016
+        height: 1075
+      alignment: 9
+      pivot: {x: 0.7001213, y: 0.4144375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_31
+      rect:
+        serializedVersion: 2
+        x: 11494
+        y: 0
+        width: 1016
+        height: 1075
+      alignment: 9
+      pivot: {x: 0.7001213, y: 0.4144375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Zoro_normal2_32
+      rect:
+        serializedVersion: 2
+        x: 12598
+        y: 0
+        width: 1017
+        height: 1075
+      alignment: 9
+      pivot: {x: 0.6951646, y: 0.4144375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

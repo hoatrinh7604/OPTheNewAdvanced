@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 508a2d6e704c4c4498f8d8cfcbb78354
+timeCreated: 1526046956
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Lucci_Attack3_4_1
+    21300002: Lucci_Attack3_4_2
+    21300004: Lucci_Attack3_4_3
+    21300006: Lucci_Attack3_4_4
+    21300008: Lucci_Attack3_4_5
+    21300010: Lucci_Attack3_4_7
+    21300012: Lucci_Attack3_4_8
+    21300014: Lucci_Attack3_4_9
+    21300016: Lucci_Attack3_4_10
+    21300018: Lucci_Attack3_4_11
+    21300020: Lucci_Attack3_4_12
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lucci_Attack3_4_1
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 2494
+        width: 742
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.59252995, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Attack3_4_2
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 2494
+        width: 743
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.6097315, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Attack3_4_3
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 2494
+        width: 743
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.7367891, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Attack3_4_4
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 2494
+        width: 732
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.91621107, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Attack3_4_5
+      rect:
+        serializedVersion: 2
+        x: 4694
+        y: 2494
+        width: 808
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9569207, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Attack3_4_7
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 503
+        width: 891
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.542138, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Attack3_4_8
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 503
+        width: 916
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.62979513, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Attack3_4_9
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 503
+        width: 819
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.7521332, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Attack3_4_10
+      rect:
+        serializedVersion: 2
+        x: 4184
+        y: 503
+        width: 724
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.8802895, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Attack3_4_11
+      rect:
+        serializedVersion: 2
+        x: 5126
+        y: 503
+        width: 735
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9341936, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Attack3_4_12
+      rect:
+        serializedVersion: 2
+        x: 5981
+        y: 503
+        width: 819
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9049414, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 28383ba76ebb30a4f91299890d2a5bb7
+timeCreated: 1526046657
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Crocodile_RunAttack_Skill1_2_1
+    21300002: Crocodile_RunAttack_Skill1_2_2
+    21300004: Crocodile_RunAttack_Skill1_2_3
+    21300006: Crocodile_RunAttack_Skill1_2_4
+    21300008: Crocodile_RunAttack_Skill1_2_5
+    21300010: Crocodile_RunAttack_Skill1_2_7
+    21300012: Crocodile_RunAttack_Skill1_2_8
+    21300014: Crocodile_RunAttack_Skill1_2_9
+    21300016: Crocodile_RunAttack_Skill1_2_10
+    21300018: Crocodile_RunAttack_Skill1_2_11
+    21300020: Crocodile_RunAttack_Skill1_2_13
+    21300022: Crocodile_RunAttack_Skill1_2_14
+    21300024: Crocodile_RunAttack_Skill1_2_15
+    21300026: Crocodile_RunAttack_Skill1_2_16
+    21300028: Crocodile_RunAttack_Skill1_2_17
+    21300030: Crocodile_RunAttack_Skill1_2_19
+    21300032: Crocodile_RunAttack_Skill1_2_20
+    21300034: Crocodile_RunAttack_Skill1_2_21
+    21300036: Crocodile_RunAttack_Skill1_2_22
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crocodile_RunAttack_Skill1_2_1
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 6600
+        width: 954
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.7041195, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_RunAttack_Skill1_2_2
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 6600
+        width: 800
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.7256018, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_RunAttack_Skill1_2_3
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 6600
+        width: 801
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.80833286, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_RunAttack_Skill1_2_4
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 6600
+        width: 881
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.88669384, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_RunAttack_Skill1_2_5
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 6600
+        width: 1143
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9343093, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_RunAttack_Skill1_2_7
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 4517
+        width: 798
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.39605117, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_RunAttack_Skill1_2_8
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 4517
+        width: 949
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.46878266, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_RunAttack_Skill1_2_9
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 4517
+        width: 1048
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.5226149, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_RunAttack_Skill1_2_10
+      rect:
+        serializedVersion: 2
+        x: 4337
+        y: 4517
+        width: 792
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.33541408, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_RunAttack_Skill1_2_11
+      rect:
+        serializedVersion: 2
+        x: 5361
+        y: 4517
+        width: 970
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.30453345, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_RunAttack_Skill1_2_13
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 2471
+        width: 1086
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.46180886, y: 0.3723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_RunAttack_Skill1_2_14
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 2471
+        width: 808
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.28000936, y: 0.3723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_RunAttack_Skill1_2_15
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 2471
+        width: 796
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.39578998, y: 0.3723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_RunAttack_Skill1_2_16
+      rect:
+        serializedVersion: 2
+        x: 4391
+        y: 2471
+        width: 796
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.41067705, y: 0.3723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_RunAttack_Skill1_2_17
+      rect:
+        serializedVersion: 2
+        x: 5390
+        y: 2471
+        width: 788
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.3872126, y: 0.3723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_RunAttack_Skill1_2_19
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 508
+        width: 798
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.3589265, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_RunAttack_Skill1_2_20
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 508
+        width: 801
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.31507215, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_RunAttack_Skill1_2_21
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 508
+        width: 941
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.40555105, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Crocodile_RunAttack_Skill1_2_22
+      rect:
+        serializedVersion: 2
+        x: 4147
+        y: 508
+        width: 1154
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.5051346, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

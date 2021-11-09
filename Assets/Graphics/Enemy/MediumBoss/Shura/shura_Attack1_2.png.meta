@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 370cd0326a63ec54a9c3e687f5e2fe22
+timeCreated: 1525961852
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shura_Attack1_2_1
+    21300002: shura_Attack1_2_2
+    21300004: shura_Attack1_2_3
+    21300006: shura_Attack1_2_4
+    21300008: shura_Attack1_2_5
+    21300010: shura_Attack1_2_6
+    21300012: shura_Attack1_2_7
+    21300014: shura_Attack1_2_8
+    21300016: shura_Attack1_2_10
+    21300018: shura_Attack1_2_11
+    21300020: shura_Attack1_2_12
+    21300022: shura_Attack1_2_13
+    21300024: shura_Attack1_2_14
+    21300026: shura_Attack1_2_15
+    21300028: shura_Attack1_2_16
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shura_Attack1_2_1
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3279
+        width: 1182
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.65059996, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Attack1_2_2
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 3279
+        width: 1123
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.68199545, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Attack1_2_3
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 3279
+        width: 679
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.6165173, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Attack1_2_4
+      rect:
+        serializedVersion: 2
+        x: 4869
+        y: 3279
+        width: 869
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.7200176, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Attack1_2_5
+      rect:
+        serializedVersion: 2
+        x: 6217
+        y: 3279
+        width: 1247
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.54685897, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Attack1_2_6
+      rect:
+        serializedVersion: 2
+        x: 7795
+        y: 3297
+        width: 928
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.8069626, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Attack1_2_7
+      rect:
+        serializedVersion: 2
+        x: 9025
+        y: 3111
+        width: 1028
+        height: 1718
+      alignment: 9
+      pivot: {x: 0.69894516, y: 0.3694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Attack1_2_8
+      rect:
+        serializedVersion: 2
+        x: 10379
+        y: 2758
+        width: 656
+        height: 1708
+      alignment: 9
+      pivot: {x: 0.3997907, y: 0.5753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Attack1_2_10
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 600
+        width: 1057
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.30155998, y: 0.4463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Attack1_2_11
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 600
+        width: 1093
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.3571, y: 0.4463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Attack1_2_12
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 600
+        width: 1169
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.43319526, y: 0.4463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Attack1_2_13
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 600
+        width: 1129
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.79397947, y: 0.4463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Attack1_2_14
+      rect:
+        serializedVersion: 2
+        x: 6425
+        y: 848
+        width: 1364
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.8284114, y: 0.2565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Attack1_2_15
+      rect:
+        serializedVersion: 2
+        x: 8014
+        y: 832
+        width: 893
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shura_Attack1_2_16
+      rect:
+        serializedVersion: 2
+        x: 9326
+        y: 832
+        width: 703
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.47764185, y: 0.2565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

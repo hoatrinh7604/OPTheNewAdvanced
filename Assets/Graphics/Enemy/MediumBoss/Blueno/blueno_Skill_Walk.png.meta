@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: 2d94ece490b08f54a853ddd0830cb7db
+timeCreated: 1525961429
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blueno_Skill_Walk_1
+    21300002: blueno_Skill_Walk_2
+    21300004: blueno_Skill_Walk_3
+    21300006: blueno_Skill_Walk_4
+    21300008: blueno_Skill_Walk_5
+    21300010: blueno_Skill_Walk_6
+    21300012: blueno_Skill_Walk_7
+    21300014: blueno_Skill_Walk_9
+    21300016: blueno_Skill_Walk_10
+    21300018: blueno_Skill_Walk_11
+    21300020: blueno_Skill_Walk_12
+    21300022: blueno_Skill_Walk_13
+    21300024: blueno_Skill_Walk_14
+    21300026: blueno_Skill_Walk_15
+    21300028: blueno_Skill_Walk_17
+    21300030: blueno_Skill_Walk_18
+    21300032: blueno_Skill_Walk_19
+    21300034: blueno_Skill_Walk_20
+    21300036: blueno_Skill_Walk_21
+    21300038: blueno_Skill_Walk_22
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blueno_Skill_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 3652
+        width: 679
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.4191143, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Skill_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 3652
+        width: 679
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.4460762, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Skill_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 3652
+        width: 716
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6619348, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Skill_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 3652
+        width: 858
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6209099, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Skill_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 3652
+        width: 747
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.7940911, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Skill_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 5039
+        y: 3652
+        width: 675
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.9701092, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Skill_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 5994
+        y: 3652
+        width: 686
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.97146684, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Skill_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2031
+        width: 675
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.56328386, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Skill_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 2031
+        width: 675
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5723246, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Skill_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 2031
+        width: 675
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5723246, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Skill_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2031
+        width: 676
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.55416346, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Skill_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 3791
+        y: 2031
+        width: 675
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5542433, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Skill_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 4624
+        y: 2031
+        width: 675
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5632849, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Skill_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 5414
+        y: 2031
+        width: 675
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.55424404, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Skill_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 286
+        width: 675
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.56799155, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Skill_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 286
+        width: 675
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5594925, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Skill_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 286
+        width: 675
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.56799155, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Skill_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 286
+        width: 675
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5594925, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Skill_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 3989
+        y: 286
+        width: 675
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.58498913, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Skill_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 4797
+        y: 286
+        width: 675
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5679919, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

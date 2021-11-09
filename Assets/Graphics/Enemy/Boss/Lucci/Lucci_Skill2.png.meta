@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 069aad85fea69134e85d51ccbb5a375a
+timeCreated: 1526046925
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Lucci_Skill2_1
+    21300002: Lucci_Skill2_2
+    21300004: Lucci_Skill2_3
+    21300006: Lucci_Skill2_4
+    21300008: Lucci_Skill2_5
+    21300010: Lucci_Skill2_7
+    21300012: Lucci_Skill2_8
+    21300014: Lucci_Skill2_9
+    21300016: Lucci_Skill2_10
+    21300018: Lucci_Skill2_11
+    21300020: Lucci_Skill2_13
+    21300022: Lucci_Skill2_14
+    21300024: Lucci_Skill2_15
+    21300026: Lucci_Skill2_16
+    21300028: Lucci_Skill2_17
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lucci_Skill2_1
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 4569
+        width: 768
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.6391862, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Skill2_2
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 4569
+        width: 754
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.6417706, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Skill2_3
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 4569
+        width: 669
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.7537738, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Skill2_4
+      rect:
+        serializedVersion: 2
+        x: 4101
+        y: 4569
+        width: 723
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.68263745, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Skill2_5
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 4569
+        width: 745
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.58440185, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Skill2_7
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 2621
+        width: 743
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.53385156, y: 0.2928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Skill2_8
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 2621
+        width: 742
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.39830753, y: 0.2928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Skill2_9
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 2621
+        width: 1311
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.4712223, y: 0.2928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Skill2_10
+      rect:
+        serializedVersion: 2
+        x: 4943
+        y: 2621
+        width: 1373
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.4725218, y: 0.2928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Skill2_11
+      rect:
+        serializedVersion: 2
+        x: 6395
+        y: 2621
+        width: 831
+        height: 1800
+      alignment: 9
+      pivot: {x: 0.60593355, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Skill2_13
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 501
+        width: 1365
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.5195804, y: 0.23226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Skill2_14
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 501
+        width: 1004
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.64641434, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Skill2_15
+      rect:
+        serializedVersion: 2
+        x: 3936
+        y: 501
+        width: 742
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.602058, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Skill2_16
+      rect:
+        serializedVersion: 2
+        x: 4820
+        y: 501
+        width: 734
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.5849643, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lucci_Skill2_17
+      rect:
+        serializedVersion: 2
+        x: 5670
+        y: 501
+        width: 732
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.5669399, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

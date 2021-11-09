@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: ea6812490adb84b40ab980497168b6cf
+timeCreated: 1526047025
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Moria_Run_1
+    21300002: Moria_Run_2
+    21300004: Moria_Run_3
+    21300006: Moria_Run_4
+    21300008: Moria_Run_5
+    21300010: Moria_Run_7
+    21300012: Moria_Run_8
+    21300014: Moria_Run_9
+    21300016: Moria_Run_10
+    21300018: Moria_Run_12
+    21300020: Moria_Run_13
+    21300022: Moria_Run_14
+    21300024: Moria_Run_15
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Moria_Run_1
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 4441
+        width: 1402
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.47249117, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Run_2
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 4441
+        width: 1467
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.48831552, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Run_3
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 4441
+        width: 1516
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.48021302, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Run_4
+      rect:
+        serializedVersion: 2
+        x: 5430
+        y: 4441
+        width: 1567
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.49726537, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Run_5
+      rect:
+        serializedVersion: 2
+        x: 7068
+        y: 4441
+        width: 1600
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.48437744, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Run_7
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2370
+        width: 1516
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.46694583, y: 0.3587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Run_8
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 2370
+        width: 1239
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.39214936, y: 0.3587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Run_9
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 2370
+        width: 1200
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.36975178, y: 0.3587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Run_10
+      rect:
+        serializedVersion: 2
+        x: 5228
+        y: 2370
+        width: 1324
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.38195065, y: 0.3587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Run_12
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 382
+        width: 1502
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.44810313, y: 0.3529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Run_13
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 382
+        width: 1555
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.46458784, y: 0.3529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Run_14
+      rect:
+        serializedVersion: 2
+        x: 3925
+        y: 382
+        width: 1478
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.45032382, y: 0.3529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Run_15
+      rect:
+        serializedVersion: 2
+        x: 5553
+        y: 382
+        width: 1192
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.37167665, y: 0.3529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

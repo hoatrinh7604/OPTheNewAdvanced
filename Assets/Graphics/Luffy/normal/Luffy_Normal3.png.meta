@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: fb9c6bd9718daf844b37f96b8550c118
+timeCreated: 1521543192
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Luffy_Normal3_2
+    21300002: Luffy_Normal3_3
+    21300004: Luffy_Normal3_4
+    21300006: Luffy_Normal3_5
+    21300008: Luffy_Normal3_6
+    21300010: Luffy_Normal3_7
+    21300012: Luffy_Normal3_8
+    21300014: Luffy_Normal3_10
+    21300016: Luffy_Normal3_11
+    21300018: Luffy_Normal3_12
+    21300020: Luffy_Normal3_13
+    21300022: Luffy_Normal3_14
+    21300024: Luffy_Normal3_15
+    21300026: Luffy_Normal3_16
+    21300028: Luffy_Normal3_17
+    21300030: Luffy_Normal3_18
+    21300032: Luffy_Normal3_19
+    21300034: Luffy_Normal3_20
+    21300036: Luffy_Normal3_21
+    21300038: Luffy_Normal3_22
+    21300040: Luffy_Normal3_26
+    21300042: Luffy_Normal3_27
+    21300044: Luffy_Normal3_28
+    21300046: Luffy_Normal3_29
+    21300048: Luffy_Normal3_30
+    21300050: Luffy_Normal3_31
+    21300052: Luffy_Normal3_32
+    21300054: Luffy_Normal3_33
+    21300056: Luffy_Normal3_34
+    21300058: Luffy_Normal3_35
+    21300060: Luffy_Normal3_36
+    21300062: Luffy_Normal3_37
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Luffy_Normal3_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3282
+        width: 564
+        height: 1072
+      alignment: 9
+      pivot: {x: 0.46471712, y: 0.37934214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_3
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 3282
+        width: 553
+        height: 1072
+      alignment: 9
+      pivot: {x: 0.41603637, y: 0.3793421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_4
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 3282
+        width: 527
+        height: 1072
+      alignment: 9
+      pivot: {x: 0.35525426, y: 0.3793421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_5
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 3280
+        width: 461
+        height: 1072
+      alignment: 9
+      pivot: {x: 0.2769778, y: 0.3793421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_6
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 3280
+        width: 475
+        height: 1072
+      alignment: 9
+      pivot: {x: 0.30449733, y: 0.3793421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_7
+      rect:
+        serializedVersion: 2
+        x: 4952
+        y: 3280
+        width: 527
+        height: 1072
+      alignment: 9
+      pivot: {x: 0.3615477, y: 0.3793421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_8
+      rect:
+        serializedVersion: 2
+        x: 5849
+        y: 3282
+        width: 553
+        height: 1072
+      alignment: 9
+      pivot: {x: 0.38005233, y: 0.3793421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_10
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1851
+        width: 565
+        height: 1072
+      alignment: 9
+      pivot: {x: 0.4520376, y: 0.38443974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_11
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1856
+        width: 539
+        height: 1072
+      alignment: 9
+      pivot: {x: 0.39226535, y: 0.3844397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_12
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 1852
+        width: 481
+        height: 1072
+      alignment: 9
+      pivot: {x: 0.2665975, y: 0.3844397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_13
+      rect:
+        serializedVersion: 2
+        x: 3157
+        y: 1847
+        width: 462
+        height: 1072
+      alignment: 9
+      pivot: {x: 0.20672211, y: 0.38443974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_14
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 1850
+        width: 422
+        height: 1072
+      alignment: 9
+      pivot: {x: 0.21561782, y: 0.3844397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_15
+      rect:
+        serializedVersion: 2
+        x: 4726
+        y: 1850
+        width: 597
+        height: 1072
+      alignment: 9
+      pivot: {x: 0.4481236, y: 0.3844397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_16
+      rect:
+        serializedVersion: 2
+        x: 5570
+        y: 1850
+        width: 741
+        height: 1072
+      alignment: 9
+      pivot: {x: 0.4686538, y: 0.3844397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_17
+      rect:
+        serializedVersion: 2
+        x: 6487
+        y: 1850
+        width: 878
+        height: 1072
+      alignment: 9
+      pivot: {x: 0.59259325, y: 0.3844397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_18
+      rect:
+        serializedVersion: 2
+        x: 7605
+        y: 1850
+        width: 943
+        height: 1072
+      alignment: 9
+      pivot: {x: 0.65600044, y: 0.3844397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_19
+      rect:
+        serializedVersion: 2
+        x: 8724
+        y: 1850
+        width: 929
+        height: 1072
+      alignment: 9
+      pivot: {x: 0.6791871, y: 0.3844397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_20
+      rect:
+        serializedVersion: 2
+        x: 9803
+        y: 1850
+        width: 994
+        height: 1072
+      alignment: 9
+      pivot: {x: 0.6674697, y: 0.3844397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_21
+      rect:
+        serializedVersion: 2
+        x: 11045
+        y: 1833
+        width: 1060
+        height: 1072
+      alignment: 9
+      pivot: {x: 0.6674697, y: 0.47745296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_22
+      rect:
+        serializedVersion: 2
+        x: 12255
+        y: 1833
+        width: 1047
+        height: 1072
+      alignment: 9
+      pivot: {x: 0.66746974, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_26
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 380
+        width: 1008
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.61174786, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_27
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 374
+        width: 748
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.81035465, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_28
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 368
+        width: 644
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.958785, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_29
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 368
+        width: 656
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.955754, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_30
+      rect:
+        serializedVersion: 2
+        x: 4634
+        y: 382
+        width: 884
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.6273249, y: 0.3004516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_31
+      rect:
+        serializedVersion: 2
+        x: 5641
+        y: 382
+        width: 807
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.6917759, y: 0.3729844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_32
+      rect:
+        serializedVersion: 2
+        x: 6727
+        y: 375
+        width: 774
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.6635976, y: 0.3729844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_33
+      rect:
+        serializedVersion: 2
+        x: 7776
+        y: 372
+        width: 681
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.649784, y: 0.3729844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_34
+      rect:
+        serializedVersion: 2
+        x: 8841
+        y: 380
+        width: 558
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.58824766, y: 0.3729844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_35
+      rect:
+        serializedVersion: 2
+        x: 9699
+        y: 385
+        width: 553
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.5636037, y: 0.3729844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_36
+      rect:
+        serializedVersion: 2
+        x: 10545
+        y: 380
+        width: 559
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.4685386, y: 0.3729844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_Normal3_37
+      rect:
+        serializedVersion: 2
+        x: 11540
+        y: 382
+        width: 559
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.4307846, y: 0.37298444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

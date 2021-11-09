@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 37b4886a8f5973240aba3b1f322437bf
+timeCreated: 1525961280
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mr3_Attack1_2_1
+    21300002: mr3_Attack1_2_2
+    21300004: mr3_Attack1_2_3
+    21300006: mr3_Attack1_2_4
+    21300008: mr3_Attack1_2_5
+    21300010: mr3_Attack1_2_6
+    21300012: mr3_Attack1_2_7
+    21300014: mr3_Attack1_2_8
+    21300016: mr3_Attack1_2_10
+    21300018: mr3_Attack1_2_11
+    21300020: mr3_Attack1_2_12
+    21300022: mr3_Attack1_2_13
+    21300024: mr3_Attack1_2_14
+    21300026: mr3_Attack1_2_15
+    21300028: mr3_Attack1_2_16
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mr3_Attack1_2_1
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2165
+        width: 520
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.58694917, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mr3_Attack1_2_2
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 2165
+        width: 521
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.61932594, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mr3_Attack1_2_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2165
+        width: 520
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.8260601, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mr3_Attack1_2_4
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2165
+        width: 538
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.8676758, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mr3_Attack1_2_5
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 2165
+        width: 555
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.88647854, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mr3_Attack1_2_6
+      rect:
+        serializedVersion: 2
+        x: 4330
+        y: 2165
+        width: 538
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.9711796, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mr3_Attack1_2_7
+      rect:
+        serializedVersion: 2
+        x: 5137
+        y: 2165
+        width: 563
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.9271663, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mr3_Attack1_2_8
+      rect:
+        serializedVersion: 2
+        x: 5928
+        y: 2165
+        width: 536
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.54850656, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mr3_Attack1_2_10
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 405
+        width: 523
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6864206, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mr3_Attack1_2_11
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 405
+        width: 519
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.7755242, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mr3_Attack1_2_12
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 405
+        width: 538
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.8262014, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mr3_Attack1_2_13
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 405
+        width: 523
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.8976976, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mr3_Attack1_2_14
+      rect:
+        serializedVersion: 2
+        x: 3251
+        y: 405
+        width: 626
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.801112, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mr3_Attack1_2_15
+      rect:
+        serializedVersion: 2
+        x: 3966
+        y: 405
+        width: 559
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5697657, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mr3_Attack1_2_16
+      rect:
+        serializedVersion: 2
+        x: 4698
+        y: 405
+        width: 552
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6530762, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

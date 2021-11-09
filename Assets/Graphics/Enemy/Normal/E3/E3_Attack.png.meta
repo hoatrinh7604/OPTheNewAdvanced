@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 3863767098ab90f41ae2bd91f656bf6b
+timeCreated: 1525961020
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: E3_Attack_1
+    21300002: E3_Attack_2
+    21300004: E3_Attack_3
+    21300006: E3_Attack_4
+    21300008: E3_Attack_5
+    21300010: E3_Attack_6
+    21300012: E3_Attack_7
+    21300014: E3_Attack_8
+    21300016: E3_Attack_9
+    21300018: E3_Attack_11
+    21300020: E3_Attack_12
+    21300022: E3_Attack_13
+    21300024: E3_Attack_14
+    21300026: E3_Attack_15
+    21300028: E3_Attack_16
+    21300030: E3_Attack_17
+    21300032: E3_Attack_19
+    21300034: E3_Attack_20
+    21300036: E3_Attack_21
+    21300038: E3_Attack_22
+    21300040: E3_Attack_23
+    21300042: E3_Attack_24
+    21300044: E3_Attack_25
+    21300046: E3_Attack_26
+    21300048: E3_Attack_27
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: E3_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 4434
+        width: 1241
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.7414421, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 4434
+        width: 693
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.6818358, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 4434
+        width: 1044
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.553645, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 4434
+        width: 1235
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.522674, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 5822
+        y: 4434
+        width: 1260
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.54222625, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 7305
+        y: 4434
+        width: 694
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.8750274, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 8356
+        y: 4434
+        width: 821
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.9208651, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 9317
+        y: 4434
+        width: 1305
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.94702095, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 10813
+        y: 4434
+        width: 1337
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.9161836, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 2640
+        width: 1286
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.63152456, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 2640
+        width: 1286
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.5672237, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 4174
+        y: 2640
+        width: 1309
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.5762845, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 5752
+        y: 2640
+        width: 1330
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.58531815, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 7337
+        y: 2640
+        width: 1335
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.618998, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 8795
+        y: 2640
+        width: 1343
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.87514544, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 10272
+        y: 2640
+        width: 1598
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.9629817, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 794
+        width: 1210
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.72586954, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 794
+        width: 636
+        height: 1737
+      alignment: 9
+      pivot: {x: 0.6398542, y: 0.266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 794
+        width: 1146
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.51538616, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 794
+        width: 1337
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.43735683, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 5847
+        y: 794
+        width: 1172
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.34955314, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 7153
+        y: 794
+        width: 967
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.44529787, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 8230
+        y: 794
+        width: 1303
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.5236811, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_26
+      rect:
+        serializedVersion: 2
+        x: 9693
+        y: 794
+        width: 1139
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.94119704, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_Attack_27
+      rect:
+        serializedVersion: 2
+        x: 10966
+        y: 794
+        width: 1489
+        height: 1560
+      alignment: 9
+      pivot: {x: 0.95294726, y: 0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

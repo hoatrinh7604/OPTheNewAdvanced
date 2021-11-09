@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: fe792bd39b4236b4a81b8a9ecccaf35d
+timeCreated: 1526047047
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Moria_Attack1_2_1
+    21300002: Moria_Attack1_2_2
+    21300004: Moria_Attack1_2_3
+    21300006: Moria_Attack1_2_4
+    21300008: Moria_Attack1_2_5
+    21300010: Moria_Attack1_2_6
+    21300012: Moria_Attack1_2_7
+    21300014: Moria_Attack1_2_9
+    21300016: Moria_Attack1_2_10
+    21300018: Moria_Attack1_2_11
+    21300020: Moria_Attack1_2_12
+    21300022: Moria_Attack1_2_13
+    21300024: Moria_Attack1_2_14
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Moria_Attack1_2_1
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2686
+        width: 1206
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.2944238, y: 0.36452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Attack1_2_2
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 2686
+        width: 1201
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.30150756, y: 0.36452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Attack1_2_3
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 2686
+        width: 1508
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.45418444, y: 0.36452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Attack1_2_4
+      rect:
+        serializedVersion: 2
+        x: 5626
+        y: 2686
+        width: 1453
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.44056275, y: 0.36452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Attack1_2_5
+      rect:
+        serializedVersion: 2
+        x: 7178
+        y: 2686
+        width: 1254
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.37144342, y: 0.36452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Attack1_2_6
+      rect:
+        serializedVersion: 2
+        x: 8562
+        y: 2686
+        width: 1499
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.53840905, y: 0.36452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Attack1_2_7
+      rect:
+        serializedVersion: 2
+        x: 10231
+        y: 2686
+        width: 1166
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Attack1_2_9
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 454
+        width: 1206
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.28497416, y: 0.37484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Attack1_2_10
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 454
+        width: 1245
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.34536034, y: 0.37484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Attack1_2_11
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 454
+        width: 1593
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.50493306, y: 0.37484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Attack1_2_12
+      rect:
+        serializedVersion: 2
+        x: 5337
+        y: 454
+        width: 1268
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.4008427, y: 0.37484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Attack1_2_13
+      rect:
+        serializedVersion: 2
+        x: 6842
+        y: 454
+        width: 1446
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.5198122, y: 0.37484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Attack1_2_14
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 454
+        width: 1205
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.48098013, y: 0.37484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: 9eaecfe34ff2eb940afc496d699eb6d0
+timeCreated: 1525961583
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kaku_Die_Hurt_Idle_1
+    21300002: kaku_Die_Hurt_Idle_2
+    21300004: kaku_Die_Hurt_Idle_3
+    21300006: kaku_Die_Hurt_Idle_4
+    21300008: kaku_Die_Hurt_Idle_5
+    21300010: kaku_Die_Hurt_Idle_6
+    21300012: kaku_Die_Hurt_Idle_7
+    21300014: kaku_Die_Hurt_Idle_8
+    21300016: kaku_Die_Hurt_Idle_10
+    21300018: kaku_Die_Hurt_Idle_11
+    21300020: kaku_Die_Hurt_Idle_12
+    21300022: kaku_Die_Hurt_Idle_13
+    21300024: kaku_Die_Hurt_Idle_14
+    21300026: kaku_Die_Hurt_Idle_15
+    21300028: kaku_Die_Hurt_Idle_16
+    21300030: kaku_Die_Hurt_Idle_17
+    21300032: kaku_Die_Hurt_Idle_19
+    21300034: kaku_Die_Hurt_Idle_20
+    21300036: kaku_Die_Hurt_Idle_21
+    21300038: kaku_Die_Hurt_Idle_22
+    21300040: kaku_Die_Hurt_Idle_23
+    21300042: kaku_Die_Hurt_Idle_24
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 3769
+        width: 1242
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.7924977, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 3769
+        width: 1242
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.75071216, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 3769
+        width: 1242
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.708145, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 4617
+        y: 3769
+        width: 1235
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.7283539, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 5929
+        y: 3769
+        width: 1215
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.75790334, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 7240
+        y: 3769
+        width: 1247
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.8032152, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 8626
+        y: 3769
+        width: 1229
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9366728, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 3769
+        width: 1280
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.97644806, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2015
+        width: 1412
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.96849895, y: 0.4282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 2015
+        width: 1362
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9718208, y: 0.4282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 2015
+        width: 1361
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9767964, y: 0.4282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 5613
+        y: 1975
+        width: 1241
+        height: 1669
+      alignment: 9
+      pivot: {x: 0.8795649, y: 0.2768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 7013
+        y: 1975
+        width: 1217
+        height: 1669
+      alignment: 9
+      pivot: {x: 0.8709317, y: 0.2768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 8425
+        y: 1975
+        width: 884
+        height: 1669
+      alignment: 9
+      pivot: {x: 0.28047007, y: 0.2768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 9424
+        y: 1975
+        width: 620
+        height: 1669
+      alignment: 9
+      pivot: {x: 0.3232989, y: 0.2768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 10257
+        y: 1975
+        width: 533
+        height: 1669
+      alignment: 9
+      pivot: {x: 0.387666, y: 0.2768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 288
+        width: 1236
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.87501204, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 288
+        width: 1239
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.86975384, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 288
+        width: 1242
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.8732002, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 4471
+        y: 288
+        width: 1236
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.8750122, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 5795
+        y: 288
+        width: 1237
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.8790661, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaku_Die_Hurt_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 7201
+        y: 288
+        width: 1236
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.87501186, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

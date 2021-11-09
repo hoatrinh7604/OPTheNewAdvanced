@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: 9a774f4336612714aa927585ce1760eb
+timeCreated: 1525961662
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1arlong_Skill_Walk_1
+    21300002: 1arlong_Skill_Walk_2
+    21300004: 1arlong_Skill_Walk_3
+    21300006: 1arlong_Skill_Walk_4
+    21300008: 1arlong_Skill_Walk_5
+    21300010: 1arlong_Skill_Walk_6
+    21300012: 1arlong_Skill_Walk_7
+    21300014: 1arlong_Skill_Walk_9
+    21300016: 1arlong_Skill_Walk_10
+    21300018: 1arlong_Skill_Walk_11
+    21300020: 1arlong_Skill_Walk_12
+    21300022: 1arlong_Skill_Walk_13
+    21300024: 1arlong_Skill_Walk_14
+    21300026: 1arlong_Skill_Walk_15
+    21300028: 1arlong_Skill_Walk_16
+    21300030: 1arlong_Skill_Walk_17
+    21300032: 1arlong_Skill_Walk_18
+    21300034: 1arlong_Skill_Walk_19
+    21300036: 1arlong_Skill_Walk_20
+    21300038: 1arlong_Skill_Walk_21
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1arlong_Skill_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1974
+        width: 398
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.3504102, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1arlong_Skill_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1974
+        width: 398
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.39715698, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1arlong_Skill_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1974
+        width: 518
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.7298716, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1arlong_Skill_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 1974
+        width: 521
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.72854793, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1arlong_Skill_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1974
+        width: 552
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.7426767, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1arlong_Skill_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 4175
+        y: 1974
+        width: 801
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.73692065, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1arlong_Skill_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 5015
+        y: 1974
+        width: 849
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.83748, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1arlong_Skill_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 294
+        width: 418
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5337485, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1arlong_Skill_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 294
+        width: 412
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5256801, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1arlong_Skill_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 294
+        width: 408
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.54321945, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1arlong_Skill_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 294
+        width: 408
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.56915104, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1arlong_Skill_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 294
+        width: 413
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.54269683, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1arlong_Skill_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 4036
+        y: 294
+        width: 422
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5334287, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1arlong_Skill_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 4669
+        y: 294
+        width: 432
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.53265494, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1arlong_Skill_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 5197
+        y: 294
+        width: 427
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.52477884, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1arlong_Skill_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 5792
+        y: 294
+        width: 421
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5335082, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1arlong_Skill_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 6449
+        y: 294
+        width: 398
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5354458, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1arlong_Skill_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 7231
+        y: 294
+        width: 407
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.53466076, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1arlong_Skill_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 8012
+        y: 294
+        width: 422
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5250736, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1arlong_Skill_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 8794
+        y: 294
+        width: 437
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

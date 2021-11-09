@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 288e52f217a53534f96e1ed4e814a66f
+timeCreated: 1525961423
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blueno_Attack3_4_1
+    21300002: blueno_Attack3_4_2
+    21300004: blueno_Attack3_4_3
+    21300006: blueno_Attack3_4_4
+    21300008: blueno_Attack3_4_5
+    21300010: blueno_Attack3_4_6
+    21300012: blueno_Attack3_4_7
+    21300014: blueno_Attack3_4_9
+    21300016: blueno_Attack3_4_10
+    21300018: blueno_Attack3_4_11
+    21300020: blueno_Attack3_4_12
+    21300022: blueno_Attack3_4_13
+    21300024: blueno_Attack3_4_14
+    21300026: blueno_Attack3_4_15
+    21300028: blueno_Attack3_4_16
+    21300030: blueno_Attack3_4_17
+    21300032: blueno_Attack3_4_18
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blueno_Attack3_4_1
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2037
+        width: 686
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.65135884, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Attack3_4_2
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 2037
+        width: 681
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.7032935, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Attack3_4_3
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 2037
+        width: 676
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.7918358, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Attack3_4_4
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 2037
+        width: 666
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5206889, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Attack3_4_5
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 2037
+        width: 651
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6693233, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Attack3_4_6
+      rect:
+        serializedVersion: 2
+        x: 4569
+        y: 2037
+        width: 632
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.7688877, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Attack3_4_7
+      rect:
+        serializedVersion: 2
+        x: 5401
+        y: 2037
+        width: 684
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.775305, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Attack3_4_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 281
+        width: 661
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.76605713, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Attack3_4_10
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 281
+        width: 678
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.51080775, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Attack3_4_11
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 281
+        width: 700
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.37961704, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Attack3_4_12
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 281
+        width: 681
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5914613, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Attack3_4_13
+      rect:
+        serializedVersion: 2
+        x: 4141
+        y: 281
+        width: 685
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6230191, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Attack3_4_14
+      rect:
+        serializedVersion: 2
+        x: 5079
+        y: 281
+        width: 686
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6204859, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Attack3_4_15
+      rect:
+        serializedVersion: 2
+        x: 5946
+        y: 281
+        width: 689
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6834697, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Attack3_4_16
+      rect:
+        serializedVersion: 2
+        x: 6810
+        y: 281
+        width: 685
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.74842113, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Attack3_4_17
+      rect:
+        serializedVersion: 2
+        x: 7613
+        y: 281
+        width: 715
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.9555958, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blueno_Attack3_4_18
+      rect:
+        serializedVersion: 2
+        x: 8546
+        y: 281
+        width: 856
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.9259889, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

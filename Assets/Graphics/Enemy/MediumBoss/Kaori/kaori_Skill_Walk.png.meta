@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: cb36ea749a7f0d6489f6c84d50a59514
+timeCreated: 1525961346
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kaori_Skill_Walk_1
+    21300002: kaori_Skill_Walk_2
+    21300004: kaori_Skill_Walk_3
+    21300006: kaori_Skill_Walk_4
+    21300008: kaori_Skill_Walk_5
+    21300010: kaori_Skill_Walk_6
+    21300012: kaori_Skill_Walk_7
+    21300014: kaori_Skill_Walk_9
+    21300016: kaori_Skill_Walk_10
+    21300018: kaori_Skill_Walk_11
+    21300020: kaori_Skill_Walk_12
+    21300022: kaori_Skill_Walk_13
+    21300024: kaori_Skill_Walk_14
+    21300026: kaori_Skill_Walk_15
+    21300028: kaori_Skill_Walk_17
+    21300030: kaori_Skill_Walk_18
+    21300032: kaori_Skill_Walk_19
+    21300034: kaori_Skill_Walk_20
+    21300036: kaori_Skill_Walk_21
+    21300038: kaori_Skill_Walk_22
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kaori_Skill_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 3714
+        width: 826
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.39449143, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Skill_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 3714
+        width: 822
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.43638682, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Skill_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 3714
+        width: 810
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6183521, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Skill_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 3714
+        width: 805
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.7056962, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Skill_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 4547
+        y: 3714
+        width: 809
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.7693152, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Skill_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 5557
+        y: 3714
+        width: 826
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.8376282, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Skill_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 6638
+        y: 3714
+        width: 830
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.9410021, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Skill_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2093
+        width: 818
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5532704, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Skill_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 2093
+        width: 818
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.56392425, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Skill_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 2093
+        width: 818
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.53196245, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Skill_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 2093
+        width: 817
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5426684, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Skill_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 4572
+        y: 2093
+        width: 818
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5213083, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Skill_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 5503
+        y: 2093
+        width: 817
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5426687, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Skill_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 6675
+        y: 2093
+        width: 818
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5532704, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Skill_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 349
+        width: 821
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5318455, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Skill_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 349
+        width: 821
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.55307573, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Skill_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 349
+        width: 821
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.53184533, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Skill_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 3787
+        y: 349
+        width: 818
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5213083, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Skill_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 4797
+        y: 349
+        width: 818
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5532704, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Skill_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 5732
+        y: 340
+        width: 818
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5532698, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

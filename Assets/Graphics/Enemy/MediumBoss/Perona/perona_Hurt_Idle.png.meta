@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 8c38a21f6c86c024ea4697349b0986f7
+timeCreated: 1525961779
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: perona_Hurt_Idle_1
+    21300002: perona_Hurt_Idle_2
+    21300004: perona_Hurt_Idle_3
+    21300006: perona_Hurt_Idle_4
+    21300008: perona_Hurt_Idle_5
+    21300010: perona_Hurt_Idle_7
+    21300012: perona_Hurt_Idle_8
+    21300014: perona_Hurt_Idle_9
+    21300016: perona_Hurt_Idle_10
+    21300018: perona_Hurt_Idle_11
+    21300020: perona_Hurt_Idle_12
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: perona_Hurt_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1852
+        width: 1158
+        height: 1870
+      alignment: 9
+      pivot: {x: 0.5446792, y: 0.2469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Hurt_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 1852
+        width: 1150
+        height: 1870
+      alignment: 9
+      pivot: {x: 0.64020973, y: 0.2469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Hurt_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 1852
+        width: 1482
+        height: 1870
+      alignment: 9
+      pivot: {x: 0.6927027, y: 0.2469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Hurt_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 4986
+        y: 1852
+        width: 1375
+        height: 1870
+      alignment: 9
+      pivot: {x: 0.64703655, y: 0.2469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Hurt_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 6478
+        y: 1852
+        width: 1253
+        height: 1870
+      alignment: 9
+      pivot: {x: 0.59022176, y: 0.2469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Hurt_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 27
+        width: 1158
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.56018984, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Hurt_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 27
+        width: 1158
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.56018996, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Hurt_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 27
+        width: 1154
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.557043, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Hurt_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 27
+        width: 1158
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.5635339, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Hurt_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 5866
+        y: 27
+        width: 1157
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.5568951, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: perona_Hurt_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 7132
+        y: 27
+        width: 1158
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.5635339, y: 0.298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

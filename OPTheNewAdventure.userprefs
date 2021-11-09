@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SaveAndLoadManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerScripts\Attack\ComboSkill.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StatScripts\LoadStatInGame.cs" Line="27" Column="2" />
+      <File FileName="Assets\Scripts\SaveAndLoadManager.cs" Line="25" Column="86" />
+      <File FileName="Assets\Scripts\StatScripts\CreatePlayer.cs" Line="125" Column="3" />
+      <File FileName="Assets\Scripts\Ranking.cs" Line="46" Column="47" />
+      <File FileName="Assets\Scripts\RankingScript.cs" Line="28" Column="93" />
+      <File FileName="Assets\Scripts\GameSetting\StartNewGame.cs" Line="21" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

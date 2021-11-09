@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: d5b2c74d1eda71c4abdb4bf50bcf064e
+timeCreated: 1526046624
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Arlong_Attack_1
+    21300002: Arlong_Attack_2
+    21300004: Arlong_Attack_3
+    21300006: Arlong_Attack_4
+    21300008: Arlong_Attack_5
+    21300010: Arlong_Attack_6
+    21300012: Arlong_Attack_7
+    21300014: Arlong_Attack_8
+    21300016: Arlong_Attack_10
+    21300018: Arlong_Attack_11
+    21300020: Arlong_Attack_12
+    21300022: Arlong_Attack_13
+    21300024: Arlong_Attack_14
+    21300026: Arlong_Attack_15
+    21300028: Arlong_Attack_17
+    21300030: Arlong_Attack_18
+    21300032: Arlong_Attack_19
+    21300034: Arlong_Attack_20
+    21300036: Arlong_Attack_21
+    21300038: Arlong_Attack_22
+    21300040: Arlong_Attack_24
+    21300042: Arlong_Attack_25
+    21300044: Arlong_Attack_26
+    21300046: Arlong_Attack_27
+    21300048: Arlong_Attack_28
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arlong_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 6535
+        width: 1251
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.65703356, y: 0.401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 6535
+        width: 1223
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.65309936, y: 0.401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 6535
+        width: 789
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.5350136, y: 0.401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 6535
+        width: 938
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.48426828, y: 0.401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 5403
+        y: 6535
+        width: 1218
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.40307698, y: 0.401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 6768
+        y: 6535
+        width: 1282
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.8414796, y: 0.401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 8237
+        y: 6535
+        width: 1016
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.87278545, y: 0.401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 9400
+        y: 6535
+        width: 1191
+        height: 2000
+      alignment: 9
+      pivot: {x: 0.68585026, y: 0.401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 4410
+        width: 1342
+        height: 1900
+      alignment: 9
+      pivot: {x: 0.77186644, y: 0.3716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 4410
+        width: 868
+        height: 1900
+      alignment: 9
+      pivot: {x: 0.6814325, y: 0.3716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 4410
+        width: 1305
+        height: 1900
+      alignment: 9
+      pivot: {x: 0.38584659, y: 0.3716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 4410
+        width: 982
+        height: 1900
+      alignment: 9
+      pivot: {x: 0.78173083, y: 0.3716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 5698
+        y: 4410
+        width: 1310
+        height: 1900
+      alignment: 9
+      pivot: {x: 0.8736451, y: 0.3716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 4410
+        width: 1518
+        height: 1900
+      alignment: 9
+      pivot: {x: 0.7383308, y: 0.3716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2187
+        width: 1491
+        height: 2200
+      alignment: 9
+      pivot: {x: 0.7837048, y: 0.37955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 2187
+        width: 1010
+        height: 2200
+      alignment: 9
+      pivot: {x: 0.48517463, y: 0.37955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 2187
+        width: 1348
+        height: 2200
+      alignment: 9
+      pivot: {x: 0.43890598, y: 0.37955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 4966
+        y: 2187
+        width: 756
+        height: 2200
+      alignment: 9
+      pivot: {x: 0.8763202, y: 0.37955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 5895
+        y: 2187
+        width: 1141
+        height: 2200
+      alignment: 9
+      pivot: {x: 0.9822781, y: 0.37955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 7134
+        y: 2187
+        width: 1234
+        height: 2200
+      alignment: 9
+      pivot: {x: 0.75178456, y: 0.37955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 507
+        width: 1337
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.8680263, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 507
+        width: 1360
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.8722893, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_26
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 507
+        width: 1370
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.8877905, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_27
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 507
+        width: 1447
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.92629385, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arlong_Attack_28
+      rect:
+        serializedVersion: 2
+        x: 6632
+        y: 507
+        width: 1785
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.9694191, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

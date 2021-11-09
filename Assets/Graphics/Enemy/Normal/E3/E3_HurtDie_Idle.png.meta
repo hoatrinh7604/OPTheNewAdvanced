@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: 2122479b930d2f344b4ee6684204f581
+timeCreated: 1525960993
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: E3_HurtDie_Idle_1
+    21300002: E3_HurtDie_Idle_2
+    21300004: E3_HurtDie_Idle_3
+    21300006: E3_HurtDie_Idle_4
+    21300008: E3_HurtDie_Idle_5
+    21300010: E3_HurtDie_Idle_6
+    21300012: E3_HurtDie_Idle_7
+    21300014: E3_HurtDie_Idle_9
+    21300016: E3_HurtDie_Idle_10
+    21300018: E3_HurtDie_Idle_11
+    21300020: E3_HurtDie_Idle_12
+    21300022: E3_HurtDie_Idle_13
+    21300024: E3_HurtDie_Idle_15
+    21300026: E3_HurtDie_Idle_16
+    21300028: E3_HurtDie_Idle_17
+    21300030: E3_HurtDie_Idle_18
+    21300032: E3_HurtDie_Idle_19
+    21300034: E3_HurtDie_Idle_20
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: E3_HurtDie_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 3613
+        width: 1170
+        height: 1191
+      alignment: 9
+      pivot: {x: 0.72354394, y: 0.50414366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_HurtDie_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 3529
+        width: 1083
+        height: 1243
+      alignment: 9
+      pivot: {x: 0.66859543, y: 0.53573096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_HurtDie_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 3512
+        width: 1058
+        height: 1266
+      alignment: 9
+      pivot: {x: 0.65392214, y: 0.53897995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_HurtDie_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 3491
+        width: 1041
+        height: 1303
+      alignment: 9
+      pivot: {x: 0.65169555, y: 0.54544765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_HurtDie_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 6043
+        y: 3852
+        width: 1324
+        height: 878
+      alignment: 9
+      pivot: {x: 0.71762776, y: 0.3135366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_HurtDie_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 7538
+        y: 3842
+        width: 1398
+        height: 744
+      alignment: 9
+      pivot: {x: 0.70142335, y: 0.29755688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_HurtDie_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 9127
+        y: 3757
+        width: 1441
+        height: 717
+      alignment: 9
+      pivot: {x: 0.66360164, y: 0.31733343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_HurtDie_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1944
+        width: 1510
+        height: 616
+      alignment: 9
+      pivot: {x: 0.6681375, y: 0.27331463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_HurtDie_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1922
+        width: 1627
+        height: 484
+      alignment: 9
+      pivot: {x: 0.6638488, y: 0.30328974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_HurtDie_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 3969
+        y: 1881
+        width: 1681
+        height: 525
+      alignment: 9
+      pivot: {x: 0.63970625, y: 0.27029204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_HurtDie_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 5825
+        y: 1912
+        width: 1654
+        height: 409
+      alignment: 9
+      pivot: {x: 0.6496617, y: 0.23618038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_HurtDie_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 7580
+        y: 1933
+        width: 1616
+        height: 372
+      alignment: 9
+      pivot: {x: 0.67281955, y: 0.19287798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_HurtDie_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 255
+        width: 1249
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.41249385, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_HurtDie_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 255
+        width: 1250
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.41770723, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_HurtDie_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 255
+        width: 1250
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.42799374, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_HurtDie_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 5251
+        y: 255
+        width: 1254
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.4316414, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_HurtDie_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 6687
+        y: 255
+        width: 1249
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.42622027, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E3_HurtDie_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 8118
+        y: 255
+        width: 1254
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.42062587, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: af73cd7f8419063459d15b6d662197cb
+timeCreated: 1521901543
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sanji_normal2_1
+    21300002: Sanji_normal2_2
+    21300004: Sanji_normal2_3
+    21300006: Sanji_normal2_4
+    21300008: Sanji_normal2_5
+    21300010: Sanji_normal2_6
+    21300012: Sanji_normal2_7
+    21300014: Sanji_normal2_10
+    21300016: Sanji_normal2_11
+    21300018: Sanji_normal2_12
+    21300020: Sanji_normal2_13
+    21300022: Sanji_normal2_14
+    21300024: Sanji_normal2_15
+    21300026: Sanji_normal2_16
+    21300028: Sanji_normal2_17
+    21300030: Sanji_normal2_18
+    21300032: Sanji_normal2_21
+    21300034: Sanji_normal2_22
+    21300036: Sanji_normal2_23
+    21300038: Sanji_normal2_24
+    21300040: Sanji_normal2_25
+    21300042: Sanji_normal2_26
+    21300044: Sanji_normal2_27
+    21300046: Sanji_normal2_28
+    21300048: Sanji_normal2_29
+    21300050: Sanji_normal2_30
+    21300052: Sanji_normal2_31
+    21300054: Sanji_normal2_32
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sanji_normal2_1
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3075
+        width: 434
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.2759827, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3073
+        width: 434
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.26583484, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_3
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 3075
+        width: 433
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.2685919, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_4
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 3075
+        width: 436
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.27094793, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_5
+      rect:
+        serializedVersion: 2
+        x: 3488
+        y: 3075
+        width: 501
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.34056935, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_6
+      rect:
+        serializedVersion: 2
+        x: 4201
+        y: 3075
+        width: 617
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.45811623, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_7
+      rect:
+        serializedVersion: 2
+        x: 4997
+        y: 3075
+        width: 677
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.5, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_10
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1555
+        width: 636
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.45663673, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_11
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1555
+        width: 545
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.36198977, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_12
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 1555
+        width: 549
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.3629953, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_13
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 1555
+        width: 568
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.37640682, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_14
+      rect:
+        serializedVersion: 2
+        x: 3830
+        y: 1555
+        width: 578
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.3872201, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_15
+      rect:
+        serializedVersion: 2
+        x: 4626
+        y: 1555
+        width: 592
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.4068282, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_16
+      rect:
+        serializedVersion: 2
+        x: 5528
+        y: 1555
+        width: 611
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.43024212, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_17
+      rect:
+        serializedVersion: 2
+        x: 6332
+        y: 1555
+        width: 670
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.47380555, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_18
+      rect:
+        serializedVersion: 2
+        x: 7277
+        y: 1555
+        width: 689
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.49636164, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_21
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 0
+        width: 631
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.46832103, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_22
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 0
+        width: 506
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.41534713, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_23
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 0
+        width: 452
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.42418677, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_24
+      rect:
+        serializedVersion: 2
+        x: 3031
+        y: 0
+        width: 442
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.42944944, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_25
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 0
+        width: 545
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.34742063, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_26
+      rect:
+        serializedVersion: 2
+        x: 4568
+        y: 0
+        width: 472
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.4064062, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_27
+      rect:
+        serializedVersion: 2
+        x: 5363
+        y: 0
+        width: 458
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.48865226, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_28
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 0
+        width: 439
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.51183885, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_29
+      rect:
+        serializedVersion: 2
+        x: 6838
+        y: 0
+        width: 439
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.5196069, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_30
+      rect:
+        serializedVersion: 2
+        x: 7615
+        y: 0
+        width: 438
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.5049129, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_31
+      rect:
+        serializedVersion: 2
+        x: 8497
+        y: 0
+        width: 438
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.50491405, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sanji_normal2_32
+      rect:
+        serializedVersion: 2
+        x: 9249
+        y: 0
+        width: 438
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.5089808, y: 0.371853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

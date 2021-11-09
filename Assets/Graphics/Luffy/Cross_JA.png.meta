@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: 3919bea1ff3da33499c92630b7706762
+timeCreated: 1524313734
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cross_JA_1
+    21300002: Cross_JA_2
+    21300004: Cross_JA_3
+    21300006: Cross_JA_4
+    21300008: Cross_JA_5
+    21300010: Cross_JA_6
+    21300012: Cross_JA_7
+    21300014: Cross_JA_9
+    21300016: Cross_JA_10
+    21300018: Cross_JA_11
+    21300020: Cross_JA_12
+    21300022: Cross_JA_13
+    21300024: Cross_JA_14
+    21300026: Cross_JA_15
+    21300028: Cross_JA_16
+    21300030: Cross_JA_17
+    21300032: Cross_JA_18
+    21300034: Cross_JA_19
+    21300036: Cross_JA_20
+    21300038: Cross_JA_21
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cross_JA_1
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2111
+        width: 566
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.4879573, y: 0.3712863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cross_JA_2
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 2115
+        width: 563
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.463679, y: 0.3712863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cross_JA_3
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 2111
+        width: 557
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.43881318, y: 0.3712863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cross_JA_4
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 2111
+        width: 546
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.40012816, y: 0.3712863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cross_JA_5
+      rect:
+        serializedVersion: 2
+        x: 3992
+        y: 2111
+        width: 585
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.39513472, y: 0.3712863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cross_JA_6
+      rect:
+        serializedVersion: 2
+        x: 4688
+        y: 2111
+        width: 761
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.44625828, y: 0.3712863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cross_JA_7
+      rect:
+        serializedVersion: 2
+        x: 5543
+        y: 2111
+        width: 822
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.46683073, y: 0.3712863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cross_JA_9
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 400
+        width: 728
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.28465137, y: 0.046399184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cross_JA_10
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 400
+        width: 905
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.40961874, y: 0.085928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cross_JA_11
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 406
+        width: 805
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.3475868, y: 0.2324459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cross_JA_12
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 414
+        width: 512
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.073984146, y: 0.3712863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cross_JA_13
+      rect:
+        serializedVersion: 2
+        x: 4274
+        y: 411
+        width: 524
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.083740234, y: 0.3712863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cross_JA_14
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 411
+        width: 541
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.08422084, y: 0.3712863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cross_JA_15
+      rect:
+        serializedVersion: 2
+        x: 5863
+        y: 411
+        width: 563
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.06414697, y: 0.3712863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cross_JA_16
+      rect:
+        serializedVersion: 2
+        x: 6696
+        y: 411
+        width: 585
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.08053803, y: 0.3712863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cross_JA_17
+      rect:
+        serializedVersion: 2
+        x: 7452
+        y: 414
+        width: 612
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.08790579, y: 0.3712863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cross_JA_18
+      rect:
+        serializedVersion: 2
+        x: 8208
+        y: 407
+        width: 613
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.07745909, y: 0.3712863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cross_JA_19
+      rect:
+        serializedVersion: 2
+        x: 8992
+        y: 414
+        width: 618
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.05881814, y: 0.3712863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cross_JA_20
+      rect:
+        serializedVersion: 2
+        x: 9908
+        y: 408
+        width: 629
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.066535115, y: 0.3712863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cross_JA_21
+      rect:
+        serializedVersion: 2
+        x: 10658
+        y: 408
+        width: 629
+        height: 1070
+      alignment: 9
+      pivot: {x: 0.05569822, y: 0.3712863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

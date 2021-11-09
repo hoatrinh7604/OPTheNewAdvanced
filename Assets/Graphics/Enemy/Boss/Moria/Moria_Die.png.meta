@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 2bf17d48a0f056a489cdd28c69013479
+timeCreated: 1526047010
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Moria_Die_1
+    21300002: Moria_Die_2
+    21300004: Moria_Die_3
+    21300006: Moria_Die_4
+    21300008: Moria_Die_5
+    21300010: Moria_Die_6
+    21300012: Moria_Die_8
+    21300014: Moria_Die_9
+    21300016: Moria_Die_10
+    21300018: Moria_Die_11
+    21300020: Moria_Die_12
+    21300022: Moria_Die_13
+    21300024: Moria_Die_15
+    21300026: Moria_Die_16
+    21300028: Moria_Die_17
+    21300030: Moria_Die_18
+    21300032: Moria_Die_19
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Moria_Die_1
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 4711
+        width: 1381
+        height: 1600
+      alignment: 9
+      pivot: {x: 0.40005642, y: 0.35375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Die_2
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 4711
+        width: 1375
+        height: 1600
+      alignment: 9
+      pivot: {x: 0.4196962, y: 0.35375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Die_3
+      rect:
+        serializedVersion: 2
+        x: 4113
+        y: 4711
+        width: 1362
+        height: 1600
+      alignment: 9
+      pivot: {x: 0.486488, y: 0.35375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Die_4
+      rect:
+        serializedVersion: 2
+        x: 5645
+        y: 4711
+        width: 1201
+        height: 1600
+      alignment: 9
+      pivot: {x: 0.48467708, y: 0.35375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Die_5
+      rect:
+        serializedVersion: 2
+        x: 7030
+        y: 4711
+        width: 1024
+        height: 1600
+      alignment: 9
+      pivot: {x: 0.45507097, y: 0.35375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Die_6
+      rect:
+        serializedVersion: 2
+        x: 8309
+        y: 4711
+        width: 988
+        height: 1600
+      alignment: 9
+      pivot: {x: 0.40686777, y: 0.35375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Die_8
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 2601
+        width: 985
+        height: 1600
+      alignment: 9
+      pivot: {x: 0.39071485, y: 0.4019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Die_9
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 2601
+        width: 981
+        height: 1600
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Die_10
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 2601
+        width: 1051
+        height: 1600
+      alignment: 9
+      pivot: {x: 0.53414065, y: 0.4019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Die_11
+      rect:
+        serializedVersion: 2
+        x: 5046
+        y: 2601
+        width: 1101
+        height: 1600
+      alignment: 9
+      pivot: {x: 0.54888535, y: 0.4019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Die_12
+      rect:
+        serializedVersion: 2
+        x: 6302
+        y: 2601
+        width: 1238
+        height: 1600
+      alignment: 9
+      pivot: {x: 0.59661263, y: 0.4019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Die_13
+      rect:
+        serializedVersion: 2
+        x: 7720
+        y: 2601
+        width: 1382
+        height: 1600
+      alignment: 9
+      pivot: {x: 0.616837, y: 0.4019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Die_15
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 328
+        width: 1533
+        height: 1600
+      alignment: 9
+      pivot: {x: 0.6138888, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Die_16
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 328
+        width: 1555
+        height: 1600
+      alignment: 9
+      pivot: {x: 0.63269174, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Die_17
+      rect:
+        serializedVersion: 2
+        x: 4405
+        y: 328
+        width: 1499
+        height: 1600
+      alignment: 9
+      pivot: {x: 0.8494162, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Die_18
+      rect:
+        serializedVersion: 2
+        x: 6026
+        y: 328
+        width: 1621
+        height: 1600
+      alignment: 9
+      pivot: {x: 0.9112418, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Moria_Die_19
+      rect:
+        serializedVersion: 2
+        x: 7783
+        y: 328
+        width: 1755
+        height: 1600
+      alignment: 9
+      pivot: {x: 0.87531996, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

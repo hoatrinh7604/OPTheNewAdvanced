@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 6bc0b70ac8fb4144ba0a8343e00b2f8c
+timeCreated: 1525960964
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: E2_Run_RunAttack_1
+    21300002: E2_Run_RunAttack_2
+    21300004: E2_Run_RunAttack_3
+    21300006: E2_Run_RunAttack_4
+    21300008: E2_Run_RunAttack_5
+    21300010: E2_Run_RunAttack_6
+    21300012: E2_Run_RunAttack_7
+    21300014: E2_Run_RunAttack_8
+    21300016: E2_Run_RunAttack_9
+    21300018: E2_Run_RunAttack_11
+    21300020: E2_Run_RunAttack_12
+    21300022: E2_Run_RunAttack_13
+    21300024: E2_Run_RunAttack_14
+    21300026: E2_Run_RunAttack_15
+    21300028: E2_Run_RunAttack_16
+    21300030: E2_Run_RunAttack_17
+    21300032: E2_Run_RunAttack_18
+    21300034: E2_Run_RunAttack_19
+    21300036: E2_Run_RunAttack_21
+    21300038: E2_Run_RunAttack_22
+    21300040: E2_Run_RunAttack_23
+    21300042: E2_Run_RunAttack_24
+    21300044: E2_Run_RunAttack_25
+    21300046: E2_Run_RunAttack_26
+    21300048: E2_Run_RunAttack_27
+    21300050: E2_Run_RunAttack_28
+    21300052: E2_Run_RunAttack_29
+    21300054: E2_Run_RunAttack_30
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_1
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 4076
+        width: 818
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.8, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_2
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 4076
+        width: 768
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.78682965, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_3
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 4076
+        width: 659
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.737554, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_4
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 4076
+        width: 624
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.667824, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_5
+      rect:
+        serializedVersion: 2
+        x: 3949
+        y: 4076
+        width: 624
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.61863905, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_6
+      rect:
+        serializedVersion: 2
+        x: 4773
+        y: 4076
+        width: 666
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5502739, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_7
+      rect:
+        serializedVersion: 2
+        x: 5676
+        y: 4076
+        width: 697
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.53849643, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_8
+      rect:
+        serializedVersion: 2
+        x: 6633
+        y: 4076
+        width: 642
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.56484175, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_9
+      rect:
+        serializedVersion: 2
+        x: 7385
+        y: 4076
+        width: 708
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.7534759, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_11
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2345
+        width: 769
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.8, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_12
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2345
+        width: 812
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.8, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_13
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 2345
+        width: 874
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.8112843, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_14
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 2345
+        width: 933
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.77357227, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_15
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 2345
+        width: 969
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.73384136, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_16
+      rect:
+        serializedVersion: 2
+        x: 5324
+        y: 2345
+        width: 994
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6908551, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_17
+      rect:
+        serializedVersion: 2
+        x: 6403
+        y: 2345
+        width: 987
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6515349, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_18
+      rect:
+        serializedVersion: 2
+        x: 7452
+        y: 2345
+        width: 981
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.72704977, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_19
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 2345
+        width: 837
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.81221414, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_21
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 694
+        width: 1075
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.7225504, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_22
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 694
+        width: 957
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.7095525, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_23
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 694
+        width: 982
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.65448457, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_24
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 694
+        width: 993
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.73366743, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_25
+      rect:
+        serializedVersion: 2
+        x: 4706
+        y: 694
+        width: 991
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.76886064, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_26
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 694
+        width: 991
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.8263182, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_27
+      rect:
+        serializedVersion: 2
+        x: 6785
+        y: 694
+        width: 994
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.89208835, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_28
+      rect:
+        serializedVersion: 2
+        x: 7809
+        y: 684
+        width: 1000
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.93914455, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_29
+      rect:
+        serializedVersion: 2
+        x: 8883
+        y: 694
+        width: 1023
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.9305982, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: E2_Run_RunAttack_30
+      rect:
+        serializedVersion: 2
+        x: 9956
+        y: 694
+        width: 1568
+        height: 1100
+      alignment: 9
+      pivot: {x: 0.96507543, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

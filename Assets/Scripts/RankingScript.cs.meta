@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 26c9b22721e0ebb42baa39b9c23efdd8
+timeCreated: 1556987532
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rank: {fileID: 1615429020544202, guid: 84fadc7c7c9f9e640857124589f037ac, type: 2}
+  - scorename: {fileID: 1591812705128452, guid: 84fadc7c7c9f9e640857124589f037ac,
+      type: 2}
+  - scorebounty: {fileID: 1529230004911832, guid: 84fadc7c7c9f9e640857124589f037ac,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: 15d6f599e6d3eca4f925c7f27da285ac
+timeCreated: 1524320591
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: JA_1
+    21300002: JA_2
+    21300004: JA_3
+    21300006: JA_4
+    21300008: JA_5
+    21300010: JA_6
+    21300012: JA_7
+    21300014: JA_8
+    21300016: JA_9
+    21300018: JA_11
+    21300020: JA_12
+    21300022: JA_13
+    21300024: JA_14
+    21300026: JA_15
+    21300028: JA_16
+    21300030: JA_17
+    21300032: JA_19
+    21300034: JA_20
+    21300036: JA_21
+    21300038: JA_22
+    21300040: JA_23
+    21300042: JA_24
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JA_1
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 4848
+        width: 1143
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.6651414, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_2
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 4832
+        width: 1143
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.6714931, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_3
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 4700
+        width: 1182
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.6412665, y: 0.32611078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_4
+      rect:
+        serializedVersion: 2
+        x: 5210
+        y: 4646
+        width: 1189
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.6282233, y: 0.34349972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_5
+      rect:
+        serializedVersion: 2
+        x: 6894
+        y: 4708
+        width: 1328
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.57106847, y: 0.30264315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_6
+      rect:
+        serializedVersion: 2
+        x: 8423
+        y: 4955
+        width: 1645
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.44704062, y: 0.15305541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_7
+      rect:
+        serializedVersion: 2
+        x: 10246
+        y: 5002
+        width: 1730
+        height: 1664
+      alignment: 9
+      pivot: {x: 0.4412493, y: 0.1701936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_8
+      rect:
+        serializedVersion: 2
+        x: 12123
+        y: 4988
+        width: 1737
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.42894876, y: 0.1739714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_9
+      rect:
+        serializedVersion: 2
+        x: 13954
+        y: 4978
+        width: 1737
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.44148666, y: 0.18265228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_11
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 2955
+        width: 1706
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.4412763, y: 0.18505494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_12
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 2955
+        width: 1667
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.4549267, y: 0.18723613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_13
+      rect:
+        serializedVersion: 2
+        x: 5025
+        y: 2908
+        width: 1583
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.48813382, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_14
+      rect:
+        serializedVersion: 2
+        x: 6956
+        y: 2932
+        width: 1521
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.50823337, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_15
+      rect:
+        serializedVersion: 2
+        x: 8888
+        y: 2948
+        width: 1586
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.49210376, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_16
+      rect:
+        serializedVersion: 2
+        x: 10764
+        y: 2978
+        width: 1591
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.48425776, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_17
+      rect:
+        serializedVersion: 2
+        x: 12603
+        y: 2947
+        width: 1505
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.5208018, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 747
+        width: 1460
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.5168864, y: 0.29685614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_20
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 638
+        width: 1351
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.5614958, y: 0.3608193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_21
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 591
+        width: 1298
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.5868667, y: 0.39694825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_22
+      rect:
+        serializedVersion: 2
+        x: 5944
+        y: 545
+        width: 1243
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.60980713, y: 0.42892978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_23
+      rect:
+        serializedVersion: 2
+        x: 7520
+        y: 461
+        width: 1231
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.6205194, y: 0.48578596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JA_24
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 390
+        width: 1217
+        height: 1670
+      alignment: 9
+      pivot: {x: 0.60240024, y: 0.50710696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

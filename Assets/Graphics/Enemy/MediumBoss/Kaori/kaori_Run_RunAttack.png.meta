@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: cdaa8a670f568e5469beab68578c5702
+timeCreated: 1525961354
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kaori_Run_RunAttack_1
+    21300002: kaori_Run_RunAttack_2
+    21300004: kaori_Run_RunAttack_3
+    21300006: kaori_Run_RunAttack_4
+    21300008: kaori_Run_RunAttack_5
+    21300010: kaori_Run_RunAttack_6
+    21300012: kaori_Run_RunAttack_7
+    21300014: kaori_Run_RunAttack_8
+    21300016: kaori_Run_RunAttack_10
+    21300018: kaori_Run_RunAttack_11
+    21300020: kaori_Run_RunAttack_12
+    21300022: kaori_Run_RunAttack_13
+    21300024: kaori_Run_RunAttack_14
+    21300026: kaori_Run_RunAttack_15
+    21300028: kaori_Run_RunAttack_16
+    21300030: kaori_Run_RunAttack_17
+    21300032: kaori_Run_RunAttack_19
+    21300034: kaori_Run_RunAttack_20
+    21300036: kaori_Run_RunAttack_21
+    21300038: kaori_Run_RunAttack_22
+    21300040: kaori_Run_RunAttack_23
+    21300042: kaori_Run_RunAttack_24
+    21300044: kaori_Run_RunAttack_25
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_1
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3711
+        width: 817
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.57830906, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_2
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 3711
+        width: 817
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.59397095, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_3
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 3711
+        width: 813
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.58656394, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_4
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 3711
+        width: 811
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.62562346, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_5
+      rect:
+        serializedVersion: 2
+        x: 4281
+        y: 3711
+        width: 852
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.57971936, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_6
+      rect:
+        serializedVersion: 2
+        x: 5209
+        y: 3711
+        width: 809
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5839566, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_7
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 3711
+        width: 814
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5834409, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_8
+      rect:
+        serializedVersion: 2
+        x: 7188
+        y: 3711
+        width: 816
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5832358, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1963
+        width: 814
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.59387034, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_11
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1963
+        width: 813
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6044288, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_12
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 1963
+        width: 811
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6046864, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_13
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 1963
+        width: 826
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5822281, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_14
+      rect:
+        serializedVersion: 2
+        x: 4421
+        y: 1963
+        width: 869
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5976989, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_15
+      rect:
+        serializedVersion: 2
+        x: 5476
+        y: 1963
+        width: 805
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.63710636, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_16
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1963
+        width: 809
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6049455, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_17
+      rect:
+        serializedVersion: 2
+        x: 7383
+        y: 1963
+        width: 813
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.58354294, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_19
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 288
+        width: 814
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.6667964, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_20
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 288
+        width: 809
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.7208254, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_21
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 288
+        width: 809
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.80915534, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_22
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 288
+        width: 813
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.8252136, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_23
+      rect:
+        serializedVersion: 2
+        x: 4319
+        y: 288
+        width: 810
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.87935054, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_24
+      rect:
+        serializedVersion: 2
+        x: 5294
+        y: 288
+        width: 817
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.89359355, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kaori_Run_RunAttack_25
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 288
+        width: 822
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.9172791, y: 0.337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

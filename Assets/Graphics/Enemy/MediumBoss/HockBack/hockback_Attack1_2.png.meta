@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 1bc86469fdd310d4692fea252ee45cf4
+timeCreated: 1525961523
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hockback_Attack1_2_1
+    21300002: hockback_Attack1_2_2
+    21300004: hockback_Attack1_2_3
+    21300006: hockback_Attack1_2_4
+    21300008: hockback_Attack1_2_5
+    21300010: hockback_Attack1_2_6
+    21300012: hockback_Attack1_2_7
+    21300014: hockback_Attack1_2_8
+    21300016: hockback_Attack1_2_10
+    21300018: hockback_Attack1_2_11
+    21300020: hockback_Attack1_2_12
+    21300022: hockback_Attack1_2_13
+    21300024: hockback_Attack1_2_14
+    21300026: hockback_Attack1_2_15
+    21300028: hockback_Attack1_2_16
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hockback_Attack1_2_1
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1669
+        width: 766
+        height: 1200
+      alignment: 9
+      pivot: {x: 0.47199705, y: 0.38474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hockback_Attack1_2_2
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1669
+        width: 760
+        height: 1200
+      alignment: 9
+      pivot: {x: 0.48871043, y: 0.38474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hockback_Attack1_2_3
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 1669
+        width: 767
+        height: 1200
+      alignment: 9
+      pivot: {x: 0.6006795, y: 0.38474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hockback_Attack1_2_4
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 1669
+        width: 764
+        height: 1200
+      alignment: 9
+      pivot: {x: 0.6347666, y: 0.38474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hockback_Attack1_2_5
+      rect:
+        serializedVersion: 2
+        x: 4057
+        y: 1669
+        width: 770
+        height: 1200
+      alignment: 9
+      pivot: {x: 0.6615735, y: 0.38474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hockback_Attack1_2_6
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 1669
+        width: 774
+        height: 1200
+      alignment: 9
+      pivot: {x: 0.6607392, y: 0.38474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hockback_Attack1_2_7
+      rect:
+        serializedVersion: 2
+        x: 5875
+        y: 1669
+        width: 771
+        height: 1200
+      alignment: 9
+      pivot: {x: 0.68362164, y: 0.38474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hockback_Attack1_2_8
+      rect:
+        serializedVersion: 2
+        x: 6822
+        y: 1669
+        width: 772
+        height: 1200
+      alignment: 9
+      pivot: {x: 0.4055296, y: 0.38474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hockback_Attack1_2_10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 287
+        width: 770
+        height: 1200
+      alignment: 9
+      pivot: {x: 0.48867416, y: 0.38474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hockback_Attack1_2_11
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 287
+        width: 764
+        height: 1200
+      alignment: 9
+      pivot: {x: 0.57419544, y: 0.38474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hockback_Attack1_2_12
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 287
+        width: 763
+        height: 1200
+      alignment: 9
+      pivot: {x: 0.6485857, y: 0.38474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hockback_Attack1_2_13
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 287
+        width: 774
+        height: 1200
+      alignment: 9
+      pivot: {x: 0.6577407, y: 0.38474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hockback_Attack1_2_14
+      rect:
+        serializedVersion: 2
+        x: 4061
+        y: 287
+        width: 773
+        height: 1200
+      alignment: 9
+      pivot: {x: 0.65230393, y: 0.38474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hockback_Attack1_2_15
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 287
+        width: 772
+        height: 1200
+      alignment: 9
+      pivot: {x: 0.41527626, y: 0.38474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hockback_Attack1_2_16
+      rect:
+        serializedVersion: 2
+        x: 5867
+        y: 287
+        width: 771
+        height: 1200
+      alignment: 9
+      pivot: {x: 0.5113109, y: 0.38474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
